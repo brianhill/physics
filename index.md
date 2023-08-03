@@ -8,11 +8,12 @@ Fall 2023, Deep Springs College, Prof. [Brian Hill](../index.html)
 
 ## Overview
 
-Our essential goal in one semester would be to understand gravitational and electrostatic interactions. In other words, to understand the physics known in the late 1700s, but by modern methods. This course is intended in part to prepare students for a possible spring term course in quantum mechanics. The course would presume previous exposure to calculus, but contain reminders for all the definitions and theorems.
+Our essential goal in one semester will be to understand gravitational and electrostatic interactions. In other words, to understand the physics known in the late 1700s, but by modern methods. The course
+presumes previous exposure to calculus, but will contain reminders for all the definitions and theorems used.
 
 ## Unit Outline
 
-To be transferrable and a meaningful preparation for what is usually the 2nd semester of college-level introductory physics, we have to follow fairly closely what is standard elsewhere, although we don’t have to mimic any particular method of covering that material. It is important to note that the Deep Springs course format (wherein we only meet two days per week for one-and-a-half hours and budget quite a bit of time for discussion and wrong turns), cannot cover all the material that a class meeting four times a week for one hour can (and that is what is normally done elsewhere). Therefore, of the standard list of essential topics, a few have necessarily been struck out of the list below. Conversely, the two italicized topics are not usually reached until the first week of the second semester of introductory physics elsewhere:
+To be transferrable and a meaningful preparation for what is usually the 2nd semester of college-level introductory physics, we cannot completely depart from what is standard elsewhere, although we don’t have to mimic any particular method of covering that material. It is important to note that the Deep Springs course format (wherein we only meet two days per week for one-and-a-half hours and budget quite a bit of time for discussion and wrong turns), cannot cover all the material that a class meeting four times a week for one hour can. Therefore, of the standard list of essential topics, a few have necessarily been struck out of the list below. Conversely, the two italicized topics are not usually reached until the first week of the second semester of introductory physics elsewhere:
 
 * Vectors, Position in Cartesian Coordinates, Velocity
 * Acceleration, Force, Newton’s 2nd Law
@@ -38,11 +39,11 @@ Detailed daily schedules will be kept retrospectively:
 
 ## Text
 
-There is an absolutely endless supply of texts that I do not consider modern. They are
-wonderful, time-tested, internationally-recognized, and ubiquitous.
+There is an endless supply of textbooks with roots going so far back (e.g., to [Sears, Mechanics, Heat and Sound*](https://archive.org/details/mechanicsheatsou0000unse)) that it is hard
+to think of even their most recent incarnations as modern. In fact, a completely separate course called &ldquo;Modern Physics&rdquo; is usually taught to physics sophomores to complement the traditional treatments. These textbooks are time-tested and internationally-recognized as well as ubiquitous.
 
-Instead we will use one of the relatively new and ambitious expositions. Three we should consider are:
+To be the &ldquo;Modern Introductory Physics&rdquo; course advertised, we will use one of the relatively new and ambitious textbooks. Three we should consider are:
 
-* [Matter & Interactions, 4th Edition](https://matterandinteractions.org)
+* [*Matter & Interactions,* 4th Edition](https://matterandinteractions.org)
 * [*Six Ideas that Shaped Physics*, 4th Edition, Volumes C and N only](http://www.physics.pomona.edu/sixideas/)
-* [Introduction to Classical Mechanics](https://scholar.harvard.edu/david-morin/classical-mechanics)
+* [*Introduction to Classical Mechanics* by David Morin](https://scholar.harvard.edu/david-morin/classical-mechanics)
