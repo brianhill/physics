@@ -39,7 +39,7 @@ Detailed daily schedules will be kept retrospectively:
 
 ## Text
 
-There is an endless supply of textbooks with roots going so far back (e.g., to [Sears, Mechanics, Heat and Sound*](https://archive.org/details/mechanicsheatsou0000unse)) that it is hard
+There is an endless supply of textbooks with roots going so far back (e.g., to [Sears, *Mechanics, Heat and Sound*](https://archive.org/details/mechanicsheatsou0000unse)) that it is hard
 to think of even their most recent incarnations as modern. In fact, a completely separate course called &ldquo;Modern Physics&rdquo; is usually taught to physics sophomores to complement the traditional treatments. These textbooks are time-tested and internationally-recognized as well as ubiquitous.
 
 To be the &ldquo;Modern Introductory Physics&rdquo; course advertised, we will use one of the relatively new and ambitious textbooks. Three we should consider are:
