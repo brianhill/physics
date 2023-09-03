@@ -3,10 +3,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[         0,          0]
-NotebookDataLength[    100132,       2089]
-NotebookOptionsPosition[     96530,       2013]
-NotebookOutlinePosition[     96974,       2031]
-CellTagsIndexPosition[     96931,       2028]
+NotebookDataLength[     99516,       2068]
+NotebookOptionsPosition[     95914,       1992]
+NotebookOutlinePosition[     96358,       2010]
+CellTagsIndexPosition[     96315,       2007]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1741,8 +1741,7 @@ Cell[TextData[{
   FormBox[
    RowBox[{
     RowBox[{"f", "(", "x", ")"}], "=", 
-    SuperscriptBox["x", "n"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    SuperscriptBox["x", "n"]}], TraditionalForm]],ExpressionUUID->
   "8dcd1745-adda-4126-877f-b93c2b114b43"],
  ",\n\n",
  Cell[BoxData[
@@ -1754,8 +1753,7 @@ Cell[TextData[{
      RowBox[{"d", "\[VeryThinSpace]", "x"}]], "=", 
     RowBox[{"n", " ", 
      SuperscriptBox["x", 
-      RowBox[{"n", "-", "1"}]]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+      RowBox[{"n", "-", "1"}]]}]}], TraditionalForm]],ExpressionUUID->
   "8a20c412-6a96-4a22-80d9-62a41b0f26bc"],
  "\n\nSome other popular ones are\n\n",
  Cell[BoxData[
@@ -1764,8 +1762,7 @@ Cell[TextData[{
     FractionBox[
      RowBox[{"d", " ", "ln", "\[VeryThinSpace]", "x"}], 
      RowBox[{"d", "\[VeryThinSpace]", "x"}]], "=", 
-    FractionBox["1", "x"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    FractionBox["1", "x"]}], TraditionalForm]],ExpressionUUID->
   "f47bdc18-6fcf-47b4-b03c-f9693b62842f"],
  "\n\n",
  Cell[BoxData[
@@ -1776,8 +1773,7 @@ Cell[TextData[{
       SuperscriptBox["e", "x"]}], 
      RowBox[{"d", "\[VeryThinSpace]", "x"}]], "=", 
     SuperscriptBox["e", 
-     RowBox[{"\[VeryThinSpace]", "x"}]]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     RowBox[{"\[VeryThinSpace]", "x"}]]}], TraditionalForm]],ExpressionUUID->
   "2f7eed09-ab5e-4cda-9e49-0cfe96725529"],
  "\n\n",
  Cell[BoxData[
@@ -1785,8 +1781,7 @@ Cell[TextData[{
    RowBox[{
     FractionBox[
      RowBox[{"d", " ", "sin", "\[VeryThinSpace]", "x"}], "dx"], "=", 
-    RowBox[{"cos", " ", "x"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"cos", " ", "x"}]}], TraditionalForm]],ExpressionUUID->
   "071dfe9a-fddd-4300-8429-f7fc3a46b505"],
  "\n\n",
  Cell[BoxData[
@@ -1795,8 +1790,7 @@ Cell[TextData[{
     FractionBox[
      RowBox[{"d", " ", "cos", "\[VeryThinSpace]", "x"}], "dx"], "=", 
     RowBox[{
-     RowBox[{"-", "sin"}], " ", "x"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     RowBox[{"-", "sin"}], " ", "x"}]}], TraditionalForm]],ExpressionUUID->
   "ea06b54a-8393-46b0-802e-d6a84570a934"],
  "\n\nA few other rules that are super-handy are product rule and chain rule. \
 Here is product rule:\n\n",
@@ -1815,33 +1809,28 @@ Here is product rule:\n\n",
       FractionBox[
        RowBox[{"d", " ", "g"}], 
        RowBox[{"d", "\[VeryThinSpace]", "x"}]]}]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "491fb7c7-2320-403d-8195-29b2e5dd0151"],
+  ExpressionUUID->"491fb7c7-2320-403d-8195-29b2e5dd0151"],
  "\n\nHere is chain rule. Create a new function as follows: ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"h", "(", "x", ")"}], "=", 
     RowBox[{"f", "(", 
-     RowBox[{"g", "(", "x", ")"}], ")"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     RowBox[{"g", "(", "x", ")"}], ")"}]}], TraditionalForm]],ExpressionUUID->
   "308fdd3f-6505-4310-add3-054a36e0bb0c"],
  ". This is called function composition and can be read \
 \[OpenCurlyDoubleQuote]",
  Cell[BoxData[
-  FormBox["h", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["h", TraditionalForm]],ExpressionUUID->
   "77edf1ee-e726-4bbe-9483-cfe4f644af6c"],
  " is ",
  Cell[BoxData[
-  FormBox["f", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["f", TraditionalForm]],ExpressionUUID->
   "a280d25e-d651-4d01-9ba6-9d98a7a7f6eb"],
  " composed with ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"g", "."}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+   RowBox[{"g", "."}], TraditionalForm]],ExpressionUUID->
   "0aae9752-4833-4195-ad71-50c3ad8c4401"],
  "\[CloseCurlyDoubleQuote] Then\n\n",
  Cell[BoxData[
@@ -1857,18 +1846,15 @@ Here is product rule:\n\n",
      FractionBox[
       RowBox[{"d", "\[VeryThinSpace]", "g"}], 
       RowBox[{"d", "\[VeryThinSpace]", "x"}]]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "e3780cfd-b25b-421d-8e48-478f696a505e"],
+  ExpressionUUID->"e3780cfd-b25b-421d-8e48-478f696a505e"],
  "\n\nYikes!\n\nIf that was on the hairy edge, I understand.\n\nA simple \
 example of chain rule is when the function ",
  Cell[BoxData[
-  FormBox["g", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["g", TraditionalForm]],ExpressionUUID->
   "858710a3-2bb1-44c7-afe8-091c29c37c65"],
  " is just multiplication by a constant that we can call ",
  Cell[BoxData[
-  FormBox["a", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["a", TraditionalForm]],ExpressionUUID->
   "d533c3fd-e17a-4ab8-8e2d-cb3af25fefd5"],
  ". Then ",
  Cell[BoxData[
@@ -1877,35 +1863,28 @@ example of chain rule is when the function ",
     RowBox[{"h", "(", "x", ")"}], "=", 
     RowBox[{"f", "(", 
      RowBox[{"a", "\[VeryThinSpace]", "x"}], ")"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "06f0bc98-deae-492d-88f0-81acd606152a"],
+  ExpressionUUID->"06f0bc98-deae-492d-88f0-81acd606152a"],
  ". The result of chain rule in this case is\n\n",
  Cell[BoxData[
   FormBox[
    RowBox[{
     FractionBox["dh", "dx"], "=", 
     RowBox[{
-     RowBox[{
-     "the", " ", "derivative", " ", "of", " ", "f", " ", "evaluated", " ", 
-      "at", " ", "a", "\[VeryThinSpace]", "x", " ", "times", " ", "a"}], "=", 
-     
-     RowBox[{"a", " ", 
-      RowBox[{"f", "(", 
-       RowBox[{"a", "\[VeryThinSpace]", "x"}], ")"}]}]}]}], TraditionalForm]],
-  
-  FormatType->TraditionalForm,ExpressionUUID->
-  "7e4c16aa-fe94-4537-8756-01fa386df52f"],
+    "the", " ", "derivative", " ", "of", " ", "f", " ", "evaluated", " ", 
+     "at", " ", "a", "\[VeryThinSpace]", "x", " ", "times", " ", "a"}]}], 
+   TraditionalForm]],ExpressionUUID->"7e4c16aa-fe94-4537-8756-01fa386df52f"],
  "\n\nI wrote it out in words because precise notation for function \
 composition gets a bit sticky and is a place where the terseness of \
 physicists can get them into trouble."
 }], "Text",
  CellChangeTimes->CompressedData["
-1:eJxTTMoPSmViYGAQBWIQvas/XkpC+K2jnvtXZRB9zkPUDkRn6Pc7gmgXieVh
+1:eJxTTMoPSmViYGAQA2IQvas/XkpC+K2jnvtXZRB9zkPUDkRn6Pc7gmgXieVh
 IPq3965mEJ3zWroTRFe9gdAVr3x7QTSDTzCY5vj8ehqItkwQnwOijxmsWgai
 N5gGbQDRNmqi+0H0SpHuJyCa6bjOGxAdYsP+A0S/7vWTkAPS847JKIPoRSIF
 fSD6QJDsbBDNZTR5F4iuyuf6DqLFZoWxygPpPc+VOUB0h7K7KIjWrorSAdGx
 uRetQLRiVJAXiP7/bWUUiPb7YBcLop38lpWA6FztN2A6R3frDjC/0PcTiPYy
-mx2mAKRvlYfGguhzh3MzQHTLu9kdIFpe+NICEG20c/sKEA0AbH2GkA==
+mx2mAKRvlYfGguhzh3MzQHTLu9kdIFpe+NICEG20c/sKEL1p0hS9U0BapV5Y
+H0QDABbOjZI=
   "],ExpressionUUID->"ce4d09c0-c53a-4ff5-8e49-819622b352c6"]
 }, Open  ]],
 
@@ -2077,11 +2056,11 @@ Cell[81815, 1598, 4280, 122, 461, "Text",ExpressionUUID->"866fc3db-f37f-4015-a9d
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[86132, 1725, 659, 10, 67, "Section",ExpressionUUID->"98502ee6-f027-410b-9b44-084e844826b8"],
-Cell[86794, 1737, 5943, 171, 816, "Text",ExpressionUUID->"ce4d09c0-c53a-4ff5-8e49-819622b352c6"]
+Cell[86794, 1737, 5327, 150, 816, "Text",ExpressionUUID->"ce4d09c0-c53a-4ff5-8e49-819622b352c6"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[92774, 1913, 710, 10, 67, "Section",ExpressionUUID->"8a765cc5-cc16-4db4-a04d-2092b0f5df56"],
-Cell[93487, 1925, 3015, 84, 390, "Text",ExpressionUUID->"ff8fa048-58de-4fa8-94a7-e6bb62de50f1"]
+Cell[92158, 1892, 710, 10, 67, "Section",ExpressionUUID->"8a765cc5-cc16-4db4-a04d-2092b0f5df56"],
+Cell[92871, 1904, 3015, 84, 390, "Text",ExpressionUUID->"ff8fa048-58de-4fa8-94a7-e6bb62de50f1"]
 }, Open  ]]
 }, Open  ]]
 }

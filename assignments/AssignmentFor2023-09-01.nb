@@ -1,0 +1,165 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5164,        157]
+NotebookOptionsPosition[      3856,        123]
+NotebookOutlinePosition[      4303,        141]
+CellTagsIndexPosition[      4260,        138]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Physics, Preparation and Assignment for Friday", "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}},ExpressionUUID->"0a9f033e-46a1-4578-becc-\
+919930044f24"],
+
+Cell[CellGroupData[{
+
+Cell["Order Textbook\t", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 
+  3.902343730587866*^9}},ExpressionUUID->"aac1c647-778a-444f-84d9-\
+464fffb000c4"],
+
+Cell[TextData[{
+ "So that we don\[CloseCurlyQuote]t have to keep making copies of my copy, \
+right away order:\n\n",
+ StyleBox["Six Ideas,",
+  FontSlant->"Italic"],
+ " 4th Edition, \[Copyright]2023, Volume C, directly from the publisher:\n\n\
+",
+ StyleBox["https://www.mheducation.com/highered/product/six-ideas-shaped-\
+physics-unit-c-conservation-laws-constrain-moore/M9781260721751.html",
+  FontSize->10],
+ "\n\nDo not settle for any edition other than the 4th Edition.\n\nIn Term 3 \
+we will be using Volume N. You could order the 4th Edition of it now too if \
+you feel like looking that far ahead."
+}], "Text",
+ CellChangeTimes->{{3.902343735436946*^9, 3.902343955518705*^9}, {
+  3.902344234217391*^9, 3.902344247007791*^9}, {3.902344475303796*^9, 
+  3.902344489209523*^9}, {3.9023445271439123`*^9, 
+  3.902344528044897*^9}},ExpressionUUID->"0badf817-1258-4053-9dd1-\
+1e7711054ba0"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Continue Reading\t", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 
+  3.902343966937828*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
+995e6360c459"],
+
+Cell["\<\
+Go to at least p. 25 of the text. You may need to look ahead a little beyond \
+that to do all the problems.\
+\>", "Text",
+ CellChangeTimes->{{3.902344004164525*^9, 3.902344038893594*^9}, {
+  3.9023442725231323`*^9, 
+  3.902344276967312*^9}},ExpressionUUID->"37a6e745-3891-4881-a33c-\
+e7c1382f040a"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Plan to Present\t", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+643fa1caea91"],
+
+Cell["\<\
+One of the five homework problems. Plus(!) one of the three problems at the \
+end of the \[OpenCurlyDoubleQuote]lightning calculus refresher\
+\[CloseCurlyDoubleQuote] that I wrote up at everyone\[CloseCurlyQuote]s \
+request.\
+\>", "Text",
+ CellChangeTimes->{{3.902344004164525*^9, 3.9023440615736027`*^9}, {
+  3.902344155128826*^9, 
+  3.902344198620983*^9}},ExpressionUUID->"daa917cc-521c-42dc-b004-\
+cc06eab40169"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Homework Problems\t", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344086066059*^9}},ExpressionUUID->"92d5e593-68e4-4384-aea1-\
+5da91051a2d6"],
+
+Cell["\<\
+We (hastily) chose:
+
+On pp. 14-15:
+
+1. C1B.4
+2. C1M.7
+3. C1M.10
+
+On pp. 33-34:
+
+4. C2B.2
+5. C2M.1\
+\>", "Text",
+ CellChangeTimes->{{3.902344004164525*^9, 3.902344125845415*^9}, {
+  3.902344320256464*^9, 
+  3.902344400941448*^9}},ExpressionUUID->"0e253dd2-a3d6-4438-ae0e-\
+415763d26b43"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{84, Automatic}, {Automatic, 204}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 288, 4, 69, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[CellGroupData[{
+Cell[893, 30, 161, 3, 67, "Section",ExpressionUUID->"aac1c647-778a-444f-84d9-464fffb000c4"],
+Cell[1057, 35, 888, 18, 235, "Text",ExpressionUUID->"0badf817-1258-4053-9dd1-1e7711054ba0"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1982, 58, 214, 4, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[2199, 64, 308, 7, 35, "Text",ExpressionUUID->"37a6e745-3891-4881-a33c-e7c1382f040a"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2544, 76, 259, 4, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[2806, 82, 425, 9, 58, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3268, 96, 261, 4, 67, "Section",ExpressionUUID->"92d5e593-68e4-4384-aea1-5da91051a2d6"],
+Cell[3532, 102, 296, 17, 288, "Text",ExpressionUUID->"0e253dd2-a3d6-4438-ae0e-415763d26b43"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+

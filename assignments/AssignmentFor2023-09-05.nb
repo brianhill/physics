@@ -1,0 +1,104 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2845,         96]
+NotebookOptionsPosition[      2100,         73]
+NotebookOutlinePosition[      2547,         91]
+CellTagsIndexPosition[      2504,         88]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Physics, Preparation for Tuesday, Sept. 5", "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}, {3.902688198161932*^9, 
+  3.902688210170267*^9}},ExpressionUUID->"0a9f033e-46a1-4578-becc-\
+919930044f24"],
+
+Cell[TextData[{
+ "Read C3 of ",
+ StyleBox["Six Ideas",
+  FontSlant->"Italic"],
+ "\t"
+}], "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
+995e6360c459"],
+
+Cell[CellGroupData[{
+
+Cell["Prepare to Present\t", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 
+  3.9026882554290752`*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+643fa1caea91"],
+
+Cell["\<\
+The three problems we chose:
+
+p. 35
+
+1. C2D.1, parts (c) to (e)
+
+p. 49
+
+2. C3B.2
+
+p. 50
+
+3. C3M.2\
+\>", "Text",
+ CellChangeTimes->{{3.902344004164525*^9, 3.9023440615736027`*^9}, {
+  3.902344155128826*^9, 3.902344198620983*^9}, {3.9026882501193943`*^9, 
+  3.902688316359304*^9}, {3.9026884000372458`*^9, 3.902688440076583*^9}, {
+  3.902688478551547*^9, 3.9026884948306503`*^9}, {3.902689395662417*^9, 
+  3.902689401015161*^9}},ExpressionUUID->"daa917cc-521c-42dc-b004-\
+cc06eab40169"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{84, Automatic}, {Automatic, 204}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 332, 5, 69, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[915, 29, 322, 9, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[CellGroupData[{
+Cell[1262, 42, 313, 5, 53, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[1578, 49, 494, 20, 311, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
