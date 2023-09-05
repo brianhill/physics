@@ -28,7 +28,7 @@ To be the &ldquo;Modern Introductory Physics&rdquo; course I advertised, we will
 * [*Matter & Interactions,* 4th Edition, Volume I only](https://matterandinteractions.org)
 * [*Six Ideas that Shaped Physics*, 4th Edition, Volumes C and N only](http://www.physics.pomona.edu/sixideas/)
 
-Which you choose will determine the unit outline. \[*NB: The students quickly settled on *Six Ideas.*\]. The novel feature of these texts is their attempt to work a modern (20th century) viewpoint into the development of the material.
+Which you choose will determine the unit outline. \[NB: The students quickly settled on *Six Ideas.*\]. The novel feature of these texts is their attempt to work a modern (20th century) viewpoint into the development of the material.
 
 ## Grading and Homework
 
