@@ -12,5 +12,5 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 2 &mdash; Coordinates and Reference Frames
 
 * Preparation for Tuesday, Sep. 5 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-05.pdf)
-* Tuesday, Sep. 5 &mdash; Physicists&rdquo; extension of PEMDAS &mdash; Description of the Cavendish experiment for measuring *G* &mdash; Relativistic momentum and the (1+&epsilon;)<sup>n</sup> approximation
+* Tuesday, Sep. 5 &mdash; Physicists&rdquo; extension of PEMDAS &mdash; Description of the [Cavendish Experiment](./resources/CavendishExperiment.png) for measuring *G* &mdash; Relativistic momentum and the (1+&epsilon;)<sup>n</sup> approximation
 * Preparation for Friday, Sep. 8 &mdash; [For Friday](./assignments/AssignmentFor2023-09-08.pdf)

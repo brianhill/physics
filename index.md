@@ -14,11 +14,10 @@ It is important to note that the Deep Springs course format (wherein we only mee
 
 ## Daily Schedules
 
-Detailed        daily       schedules        will        be        kept       retrospectively        at
-[https://brianhill.github.io/physics/daily\_schedule-term\_2.html](https://brianhill.github.io/physics
-/daily_schedule-term_2.html) and
-[https://brianhill.github.io/physics/daily\_schedule-term\_3.html](https://brianhill.github.io/physics
-/daily_schedule-term_3.html)
+Detailed        daily       schedules        will        be        kept       retrospectively        at:
+
+* [https://brianhill.github.io/physics/daily\_schedule-term\_2.html](https://brianhill.github.io/physics/daily_schedule-term_2.html)
+* [https://brianhill.github.io/physics/daily\_schedule-term\_3.html](https://brianhill.github.io/physics/daily_schedule-term_3.html)
 
 ## Text and Unit Outline
 
@@ -44,6 +43,6 @@ Assignments should be on standard 8 1/2 x 11 paper, without tears. Multi-page as
 
 ## Absences
 
-The College's general policies on absences (and late work) are applicable. There was an email from  Ryan on this September 8, 2022 in response to an inauspicious Spring 2022 semester. Since that email predates most of you, the essential absence/late policies are reproduced from that email below:
+The College's general policies on absences (and late work) are applicable. There was an email from  Ryan on this September 8, 2022 in response to an inauspicious Spring 2022 semester. Since that email predates most of you, the essential absence/late policies are reproduced from that email here:
 
 Whereas missed coursework affects both your classmates and professors by lowering the thinking and understanding you bring to a given class, and interrupts the course schedule that has been set up and is adjusted on an ongoing basis with substantial care. The same is true for absences &mdash; whereas a handful of absences might be &ldquo;normal&rdquo; at colleges with large lectures or less serious academics, at Deep Springs we expect students to miss *no classes* save for legitimate health issues or emergencies requiring also missing labor and governance obligations. For a student wishing to submit a course assignment past its required deadline, the student may request an extension on the assignment directly from the professor 48 hours in advance. Within 48 hours of the due date, the student must request an extension directly from the Dean. Exceptions will be granted by the Dean only if the student faces unforeseen and unforeseeable circumstances. A student who misses the deadline will be penalized an amount that is roughly equivalent to a letter grade for each day the assignment is late. Assignments cannot be turned in after solutions and graded assignments have been passed back, which generally happens one to two classes after they were turned in.
