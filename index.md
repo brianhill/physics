@@ -1,6 +1,10 @@
-# Modern Introductory Physics &mdash; Syllabus
+# Modern Introductory Physics
 
 Fall 2023, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)
+
+## Syllabus
+
+A [PDF of the Syllabus](./PhysicsSyllabus.pdf) containing essentially the same information as is on these web pages.
 
 ## Overview
 
