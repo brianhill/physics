@@ -21,4 +21,4 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 * Preparation for Tuesday, Sept. 12 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-12.pdf)
 
 
-![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.png)
+![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.jpeg)
