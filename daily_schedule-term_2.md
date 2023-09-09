@@ -22,4 +22,4 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 ![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.jpeg)
 
-Is his momentum changing? Is the momentum of his guitar &mdash; which is floating in front of him &mdash; changing? Is the momentum of the ISS changing?
+Is Chris Hadfield's momentum changing? Is the momentum of his guitar &mdash; which is floating in front of him &mdash; changing? Is the momentum of the ISS changing?
