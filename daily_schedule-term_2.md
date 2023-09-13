@@ -19,6 +19,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 3
 
 * Preparation for Tuesday, Sept. 12 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-12.pdf)
+* Preparation for Friday, Sept. 15 &mdash; [For Friday](./assignments/AssignmentFor2023-09-15.pdf)
 
 ![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.jpeg)
 

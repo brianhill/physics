@@ -1,0 +1,248 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      9533,        240]
+NotebookOptionsPosition[      8562,        213]
+NotebookOutlinePosition[      9011,        231]
+CellTagsIndexPosition[      8968,        228]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Physics, Preparation for Friday, Sept. 15", "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}, {3.902688198161932*^9, 3.902688210170267*^9}, {
+  3.902930581038875*^9, 3.90293058270744*^9}, {3.903534976629549*^9, 
+  3.903534976745845*^9}},
+ FontSize->24,ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+
+Cell[TextData[{
+ "Copy and Read C6 of ",
+ StyleBox["Six Ideas",
+  FontSlant->"Italic"],
+ "\t"
+}], "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903534979017518*^9, 3.903534981785453*^9}},
+ FontSize->24,ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+
+Cell[CellGroupData[{
+
+Cell["As Problem Set #3, Turn In\t", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.90353498841116*^9, 
+  3.9035349884900208`*^9}},
+ FontSize->24,ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+
+Cell[TextData[StyleBox["pp. 67\n\n1. C4R.4 The Zombies on the beam problem, \
+which I have broken down into a multi-part problem \[LongDash] see below.\n\n\
+pp. 82-83\n\n2. C5B.8\n3. C5M.3\n4. C5M.4\n\npp. 97-98\n\n5. C6B.2\n6. C6M.5",
+ 
+ FontSize->14]], "Text",
+ CellChangeTimes->{{3.902344004164525*^9, 3.9023440615736027`*^9}, {
+  3.902344155128826*^9, 3.902344198620983*^9}, {3.9026882501193943`*^9, 
+  3.902688316359304*^9}, {3.9026884000372458`*^9, 3.902688440076583*^9}, {
+  3.902688478551547*^9, 3.9026884948306503`*^9}, {3.902689395662417*^9, 
+  3.902689401015161*^9}, {3.902928345278255*^9, 3.9029283859129333`*^9}, {
+  3.902928446628468*^9, 3.902928446965848*^9}, {3.9029284836743317`*^9, 
+  3.9029285320262623`*^9}, {3.90353499924824*^9, 3.903535090852078*^9}, {
+  3.903536130763791*^9, 3.903536132539475*^9}, {3.9035363888757343`*^9, 
+  3.9035363892810087`*^9}, {3.903550696526548*^9, 
+  3.903550700339756*^9}},ExpressionUUID->"daa917cc-521c-42dc-b004-\
+cc06eab40169"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Working in Symbols and C4R.4 Broken Down", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.90353498841116*^9, 
+  3.9035349884900208`*^9}, {3.903535120529148*^9, 3.90353513956382*^9}, {
+  3.903535260792046*^9, 3.903535267272105*^9}},
+ FontSize->24,ExpressionUUID->"c474a269-df96-4317-853e-979c38453e6b"],
+
+Cell[TextData[{
+ StyleBox["For ALL problems, work in symbols for as long as possible. Even if \
+Moore gives you numbers, give names to the quantities. For example, if Moore \
+says ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["m", "Pluto"], "=", 
+    RowBox[{"1.8", " ", 
+     SubscriptBox["m", "Chiron"]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"f6e319ea-4151-47dc-92d9-98a5c76c4ad0"],
+ StyleBox[" you could write down ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["m", "Pluto"], "=", 
+    RowBox[{"\[Rho]", " ", 
+     SubscriptBox["m", "Chiron"]}]}], TraditionalForm]],
+  FontSize->14,ExpressionUUID->"0305a40c-57ee-4f9e-b057-e7045b3e86f7"],
+ ", ",
+ StyleBox["where \[Rho]  (the Greek letter \[OpenCurlyDoubleQuote]rho\
+\[CloseCurlyDoubleQuote]) is equal to 1.8? When you arrive at a symbolic \
+answer, then punch 1.8 into your calculator.\n\nC4R.4 (a) ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["m", "GG"], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"f2be72f1-465f-4eed-a441-47ede1413925"],
+ StyleBox[", ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["m", "ZA"], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"85382872-7048-4069-9330-60447b7911ff"],
+ StyleBox[", and ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["m", "Beam"], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"93d8fca8-ff43-4437-afd1-d00bc4f863bb"],
+ StyleBox[" (GG for good guy, and ZA for zombie apocalypse) are the three \
+masses. The beam has total length ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox["L", TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"f56bbb72-ec16-46bd-8bbe-0214327361b3"],
+ StyleBox[", and ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"L", "-", "N"}], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"dbaaa45a-8163-4a5e-92f8-244c8c265895"],
+ StyleBox[" of the beam extends towards the good guy from the fulcrum, while \
+the remaining ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox["N", TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"25a18f0d-7607-468b-b7fa-fbc6601eb9ad"],
+ StyleBox[" of the beam extends toward the zombies from the fulcrum. Putting \
+the origin of coordinates at the fulcrum with the positive x-axis extending \
+along the beam toward the zombies, what are the three contributions to the \
+center of mass of this system? Add them up. What must the three contributions \
+add up to for the system\[CloseCurlyQuote]s center of mass to be at the \
+fulcrum? This equation can be solved for ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox["N", TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"c98de3fc-b8f4-447e-b3f6-52557d50a76f"],
+ StyleBox[", so it is no longer an unknown.\n\nC4R.4 (b) The zombies walk an \
+amount ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["D", "ZA"], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"2554576b-3d4c-4f2d-a632-c03825f0e9e9"],
+ StyleBox[" from the end of their end of the beam. You compensate by walking \
+an amount ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["D", "GG"], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"cd957fbb-6834-4c79-84b2-73722fcc2077"],
+ StyleBox[" from your end of the beam. What are the three contributions to \
+the center of mass of this system now? Add them up. They must still add up to \
+zero, so that gives you an equation for ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["D", "ZA"], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"a841f4f9-f12d-406f-aa54-a547b45d5fc2"],
+ StyleBox[". You may or may not want to use the equation for ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox["N", TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"1ec263d6-8e05-40a3-8b58-7e32f98eecde"],
+ StyleBox[" you found in (a) to simplify the equation for ",
+  FontSize->14],
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["D", "ZA"], TraditionalForm]],
+  FormatType->TraditionalForm,
+  FontSize->14,ExpressionUUID->"13552963-0ab2-490d-9801-8abfd356faab"],
+ StyleBox[".\n\nC4R.4 (c) Now return to Moore\[CloseCurlyQuote]s statement of \
+the problem and plug in his numbers. Discover how far the zombies are from \
+the fulcrum when you reach the fulcrum.",
+  FontSize->14]
+}], "Text",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGAQBmIQfcq5NUNR+K3jl6hN+SA6Qj6lGkRL3L/cAKJFLjnX
+nwTS2fXd7SBazpBxEoiOK2aaDqLdll2cDaI3TLk1F0S3GpXynQLSxjUK/CC6
+/LnGbjuRt44HzGwPgOhMmSvHQbTVi3tgWmFK6RkQrXK94RKInvrx+ac00beO
+li7R/0A0T0skazqQftx9qgBE+/XmNILo1IdCnSC6NfftRBBd9eDodBC9t3D9
+IhD9odxxLYi+b3JyK4hufjNvB4jWW/1mYR6QdlvOsw5Ez/rWsQlEOzN9BdOr
+rnruANFs/5rAdF78pWsg2iuH8SaIBgAcT5Hk
+  "],ExpressionUUID->"10c4619f-bca6-4d69-8b0c-b60887233560"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{-987, Automatic}, {203, Automatic}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 439, 6, 56, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[1022, 30, 441, 10, 62, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[CellGroupData[{
+Cell[1488, 44, 432, 6, 48, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[1923, 52, 981, 15, 306, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2941, 72, 538, 7, 62, "Section",ExpressionUUID->"c474a269-df96-4317-853e-979c38453e6b"],
+Cell[3482, 81, 5052, 128, 399, "Text",ExpressionUUID->"10c4619f-bca6-4d69-8b0c-b60887233560"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
