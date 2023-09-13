@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      9533,        240]
-NotebookOptionsPosition[      8562,        213]
-NotebookOutlinePosition[      9011,        231]
-CellTagsIndexPosition[      8968,        228]
+NotebookDataLength[      9564,        240]
+NotebookOptionsPosition[      8592,        213]
+NotebookOutlinePosition[      9041,        231]
+CellTagsIndexPosition[      8998,        228]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -50,21 +50,21 @@ Cell["As Problem Set #3, Turn In\t", "Section",
   3.9035349884900208`*^9}},
  FontSize->24,ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
 
-Cell[TextData[StyleBox["pp. 67\n\n1. C4R.4 The Zombies on the beam problem, \
+Cell[TextData[StyleBox["p. 67\n\n1. C4R.4 The Zombies on the beam problem, \
 which I have broken down into a multi-part problem \[LongDash] see below.\n\n\
 pp. 82-83\n\n2. C5B.8\n3. C5M.3\n4. C5M.4\n\npp. 97-98\n\n5. C6B.2\n6. C6M.5",
  
  FontSize->14]], "Text",
  CellChangeTimes->{{3.902344004164525*^9, 3.9023440615736027`*^9}, {
-  3.902344155128826*^9, 3.902344198620983*^9}, {3.9026882501193943`*^9, 
-  3.902688316359304*^9}, {3.9026884000372458`*^9, 3.902688440076583*^9}, {
-  3.902688478551547*^9, 3.9026884948306503`*^9}, {3.902689395662417*^9, 
-  3.902689401015161*^9}, {3.902928345278255*^9, 3.9029283859129333`*^9}, {
-  3.902928446628468*^9, 3.902928446965848*^9}, {3.9029284836743317`*^9, 
-  3.9029285320262623`*^9}, {3.90353499924824*^9, 3.903535090852078*^9}, {
-  3.903536130763791*^9, 3.903536132539475*^9}, {3.9035363888757343`*^9, 
-  3.9035363892810087`*^9}, {3.903550696526548*^9, 
-  3.903550700339756*^9}},ExpressionUUID->"daa917cc-521c-42dc-b004-\
+   3.902344155128826*^9, 3.902344198620983*^9}, {3.9026882501193943`*^9, 
+   3.902688316359304*^9}, {3.9026884000372458`*^9, 3.902688440076583*^9}, {
+   3.902688478551547*^9, 3.9026884948306503`*^9}, {3.902689395662417*^9, 
+   3.902689401015161*^9}, {3.902928345278255*^9, 3.9029283859129333`*^9}, {
+   3.902928446628468*^9, 3.902928446965848*^9}, {3.9029284836743317`*^9, 
+   3.9029285320262623`*^9}, {3.90353499924824*^9, 3.903535090852078*^9}, {
+   3.903536130763791*^9, 3.903536132539475*^9}, {3.9035363888757343`*^9, 
+   3.9035363892810087`*^9}, {3.903550696526548*^9, 3.903550700339756*^9}, 
+   3.903634889578665*^9},ExpressionUUID->"daa917cc-521c-42dc-b004-\
 cc06eab40169"]
 }, Open  ]],
 
@@ -235,11 +235,11 @@ Cell[580, 22, 439, 6, 56, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919
 Cell[1022, 30, 441, 10, 62, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
 Cell[CellGroupData[{
 Cell[1488, 44, 432, 6, 48, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
-Cell[1923, 52, 981, 15, 306, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+Cell[1923, 52, 1011, 15, 306, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2941, 72, 538, 7, 62, "Section",ExpressionUUID->"c474a269-df96-4317-853e-979c38453e6b"],
-Cell[3482, 81, 5052, 128, 399, "Text",ExpressionUUID->"10c4619f-bca6-4d69-8b0c-b60887233560"]
+Cell[2971, 72, 538, 7, 62, "Section",ExpressionUUID->"c474a269-df96-4317-853e-979c38453e6b"],
+Cell[3512, 81, 5052, 128, 399, "Text",ExpressionUUID->"10c4619f-bca6-4d69-8b0c-b60887233560"]
 }, Open  ]]
 }, Open  ]]
 }
