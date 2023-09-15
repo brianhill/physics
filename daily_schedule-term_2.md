@@ -16,10 +16,17 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 * Preparation for Friday, Sept. 8 &mdash; [For Friday](./assignments/AssignmentFor2023-09-08.pdf)
 * Friday, Sept. 8 &mdash; Proof that the CoM moves uniformly for an isolated system (Moore Section C4.3, p. 57-58) &mdash; What is the redefinition of velocity (not quite the way I would put it) that Moore referred to twice for relativistic momentum (but did not go into any detail)? &mdash; In the relativistic definition of momentum, you replace *&Delta;t* with *&Delta;&tau;* so *p<sub>x</sub>=* lim<sub>*&Delta;*&tau;*&rarr;0*</sub> *m&Delta;x/&Delta;&tau;* and similarly for *p<sub>y</sub>* and *p<sub>z</sub>* &mdash; *&Delta;&tau;* is the time elapsed according to the particle, not the observer, and it is smaller by the factor we called &gamma;, e.g., *&Delta;&tau;=&Delta;t/&gamma;*, and so the relativistic momentum is greater by a factor of &gamma; &mdash; It is the sum of the relativistic momenta that is conserved in an isolated system &mdash; The approximation *&theta;=*sin*&theta;=*tan*&theta;* is very useful &mdash; It is valid only when working in radians (convert to degrees later!), and it is only a good approximation for small *&theta;*
 
-### Week 3
+### Week 3 &mdash; Angular Momentum and Angular Momentum Conservation
 
 * Preparation for Tuesday, Sept. 12 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-12.pdf)
 * Preparation for Friday, Sept. 15 &mdash; [For Friday](./assignments/AssignmentFor2023-09-15.pdf)
+* Friday, Sept. 15 &mdash; The reason for radians &mdash; The definition of angular velocity &mdash; The direction of the angular velocity vector &mdash; The angular momentum vector &mdash; The definition of torque &mdash; The units of torque
+
+### Week 4 &mdash; Angular Momentum Conservation (Continued) &mdash; Energy Conservation
+
+* Preparation for Tuesday, Sept. 19 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-19.pdf)
+
+* Brian's Lightning [Trig Refresher -- FORTHCOMING](./resources/TrigRefresher.pdf)
 
 ![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.jpeg)
 

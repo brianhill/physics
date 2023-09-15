@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      9564,        240]
-NotebookOptionsPosition[      8592,        213]
-NotebookOutlinePosition[      9041,        231]
-CellTagsIndexPosition[      8998,        228]
+NotebookDataLength[      9590,        241]
+NotebookOptionsPosition[      8618,        214]
+NotebookOutlinePosition[      9067,        232]
+CellTagsIndexPosition[      9024,        229]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -64,7 +64,8 @@ pp. 82-83\n\n2. C5B.8\n3. C5M.3\n4. C5M.4\n\npp. 97-98\n\n5. C6B.2\n6. C6M.5",
    3.9029285320262623`*^9}, {3.90353499924824*^9, 3.903535090852078*^9}, {
    3.903536130763791*^9, 3.903536132539475*^9}, {3.9035363888757343`*^9, 
    3.9035363892810087`*^9}, {3.903550696526548*^9, 3.903550700339756*^9}, 
-   3.903634889578665*^9},ExpressionUUID->"daa917cc-521c-42dc-b004-\
+   3.903634889578665*^9, 
+   3.903635029478756*^9},ExpressionUUID->"daa917cc-521c-42dc-b004-\
 cc06eab40169"]
 }, Open  ]],
 
@@ -212,7 +213,7 @@ rnruANFs/5rAdF78pWsg2iuH8SaIBgAcT5Hk
 }, Open  ]]
 },
 WindowSize->{808, 911},
-WindowMargins->{{-987, Automatic}, {203, Automatic}},
+WindowMargins->{{-987, Automatic}, {Automatic, 181}},
 PrintingCopies->1,
 PrintingPageRange->{1, Automatic},
 FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
@@ -235,11 +236,11 @@ Cell[580, 22, 439, 6, 56, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919
 Cell[1022, 30, 441, 10, 62, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
 Cell[CellGroupData[{
 Cell[1488, 44, 432, 6, 48, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
-Cell[1923, 52, 1011, 15, 306, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+Cell[1923, 52, 1037, 16, 306, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2971, 72, 538, 7, 62, "Section",ExpressionUUID->"c474a269-df96-4317-853e-979c38453e6b"],
-Cell[3512, 81, 5052, 128, 399, "Text",ExpressionUUID->"10c4619f-bca6-4d69-8b0c-b60887233560"]
+Cell[2997, 73, 538, 7, 62, "Section",ExpressionUUID->"c474a269-df96-4317-853e-979c38453e6b"],
+Cell[3538, 82, 5052, 128, 399, "Text",ExpressionUUID->"10c4619f-bca6-4d69-8b0c-b60887233560"]
 }, Open  ]]
 }, Open  ]]
 }
