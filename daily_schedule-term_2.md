@@ -25,6 +25,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 4 &mdash; Angular Momentum Conservation (Continued) &mdash; Energy Conservation
 
 * Preparation for Tuesday, Sept. 19 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-19.pdf)
+* Preparation for Friday, Sept. 22 &mdash; [For Friday](./assignments/AssignmentFor2023-09-22.pdf)
 
 * Brian's Lightning [Trig Refresher -- FORTHCOMING](./resources/TrigRefresher.pdf)
 
