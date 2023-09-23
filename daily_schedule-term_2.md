@@ -22,7 +22,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 * Preparation for Friday, Sept. 15 &mdash; [For Friday](./assignments/AssignmentFor2023-09-15.pdf)
 * Friday, Sept. 15 &mdash; The reason for radians &mdash; The definition of angular velocity &mdash; The direction of the angular velocity vector &mdash; The angular momentum vector &mdash; The definition of torque &mdash; The units of torque
 
-### Week 4 &mdash; Angular Momentum Conservation (Continued)
+### Week 4 &mdash; Angular Momentum and Angular Momentum Conservation (Continued)
 
 * Preparation for Tuesday, Sept. 19 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-19.pdf)
 * Preparation for Friday, Sept. 22 &mdash; [For Friday](./assignments/AssignmentFor2023-09-22.pdf)
@@ -30,7 +30,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 5  &mdash; Energy Conservation
 
 * Preparation for Tuesday, Sept. 26 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-26.pdf)
-* Brian's Lightning [Trig Refresher -- FORTHCOMING](./resources/TrigRefresher.pdf)
+* Brian's Lightning [Trig Refresher -- STILL FORTHCOMING](./resources/TrigRefresher.pdf)
 
 ![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.jpeg)
 
