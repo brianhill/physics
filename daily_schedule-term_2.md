@@ -30,6 +30,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 5  &mdash; Energy Conservation
 
 * Preparation for Tuesday, Sept. 26 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-26.pdf)
+* Preparation for Friday, Sept. 29&mdash; [For Friday](./assignments/AssignmentFor2023-09-29.pdf)
 * Brian's Lightning [Trig Refresher -- STILL FORTHCOMING](./resources/TrigRefresher.pdf)
 
 ![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.jpeg)
