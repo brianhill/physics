@@ -27,11 +27,21 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 * Preparation for Tuesday, Sept. 19 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-19.pdf)
 * Preparation for Friday, Sept. 22 &mdash; [For Friday](./assignments/AssignmentFor2023-09-22.pdf)
 
-### Week 5  &mdash; Energy Conservation
+### Week 5  &mdash; Energy Conservation &mdash; Work
 
 * Preparation for Tuesday, Sept. 26 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-26.pdf)
 * Preparation for Friday, Sept. 29&mdash; [For Friday](./assignments/AssignmentFor2023-09-29.pdf)
+
+### Week 6  &mdash; Rotational Energy
+
+* Preparation for Tuesday, Oct. 3 &mdash; C11 &mdash; To present: C10R.4, C10D.3, C11B.6, C11M.2, C11M.4
+* Preparation for Friday, Oct. 6 &mdash; C12 &mdash; Problem Set 6
 * Brian's Lightning [Trig Refresher -- STILL FORTHCOMING](./resources/TrigRefresher.pdf)
+
+### Week 7  &mdash; Midterm
+
+* Weekend Q&amp;A session(s) to be scheduled
+* Tuesday, Oct. 10 &mdash; Midterm
 
 ![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.jpeg)
 
