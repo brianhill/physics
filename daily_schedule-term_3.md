@@ -6,5 +6,5 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 8
 
-* Tuesday, Oct. 24 &mdash; Six Ideas C13 &mdash; Brian willl pick the problems to present
-* Friday, Oct. 27 &mdash; Six Ideas N1
+* Tuesday, Oct. 24 &mdash; *Six Ideas* C13 &mdash; Problems to Present
+* Friday, Oct. 27 &mdash; *Six Ideas* N1 &mdash; Problem Set 7

@@ -34,9 +34,9 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 ### Week 6  &mdash; Rotational Energy
 
-* Preparation for Tuesday, Oct. 3 &mdash; C11 &mdash; To present: C10R.4, C10D.3, C11B.6, C11M.2, C11M.4
-* Preparation for Friday, Oct. 6 &mdash; C12 &mdash; Problem Set 6
 * Brian's Lightning [Trig Refresher -- STILL FORTHCOMING](./resources/TrigRefresher.pdf)
+* Preparation for Tuesday, Oct. 3 &mdash; [For Tuesday](./assignments/AssignmentFor2023-10-03.pdf)
+* Preparation for Friday, Oct. 6 &mdash; *Six Ideas* C12 &mdash; Problem Set 6
 
 ### Week 7  &mdash; Midterm
 

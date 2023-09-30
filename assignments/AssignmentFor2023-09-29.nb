@@ -10,65 +10,69 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      6901,        168]
-NotebookOptionsPosition[      5834,        140]
-NotebookOutlinePosition[      6282,        158]
-CellTagsIndexPosition[      6239,        155]
+NotebookDataLength[      4154,        115]
+NotebookOptionsPosition[      3407,         92]
+NotebookOutlinePosition[      3854,        110]
+CellTagsIndexPosition[      3811,        107]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["Physics, Preparation for Friday, Sept. 22", "Chapter",
+Cell["Physics, Preparation for Friday, Sept. 29", "Chapter",
  CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
   3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
   3.902344438674733*^9}, {3.902688198161932*^9, 3.902688210170267*^9}, {
   3.902930581038875*^9, 3.90293058270744*^9}, {3.9031851047434187`*^9, 
   3.903185107369246*^9}, {3.904140031595475*^9, 3.9041400320369463`*^9}, {
-  3.9042193971423817`*^9, 
-  3.90421939769388*^9}},ExpressionUUID->"0a9f033e-46a1-4578-becc-\
+  3.9042193971423817`*^9, 3.90421939769388*^9}, {3.904763673294566*^9, 
+  3.904763673458726*^9}},ExpressionUUID->"0a9f033e-46a1-4578-becc-\
 919930044f24"],
 
 Cell[TextData[{
- "Read the 1st Section of C7 and Chapter C8 of ",
- StyleBox["Six Ideas",
-  FontSlant->"Italic"]
+ "Read Chapter C10 of ",
+ StyleBox["Six Ideas ",
+  FontSlant->"Italic"],
+ "\[LongDash] This chapter is pretty hard!"
 }], "Section",
  CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
   3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
   3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
   3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
   3.903185681080297*^9}, {3.904140037127006*^9, 3.9041400458531857`*^9}, {
-  3.904140759074647*^9, 
-  3.904140823064137*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
+  3.904140759074647*^9, 3.904140823064137*^9}, {3.904763679724565*^9, 
+  3.9047636831911993`*^9}, {3.904763812025543*^9, 
+  3.904763833445244*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
 995e6360c459"],
 
 Cell[CellGroupData[{
 
-Cell["For Problem Set #4\t", "Section",
+Cell["For Problem Set #5\t", "Section",
  CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
   3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
   3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
   3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
-  3.9031854607388773`*^9}, {3.904140837913426*^9, 
-  3.904140840546137*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+  3.9031854607388773`*^9}, {3.904140837913426*^9, 3.904140840546137*^9}, {
+  3.9047636926861*^9, 
+  3.904763692809832*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
 643fa1caea91"],
 
 Cell["\<\
-One problem carried forward from C6, p. 99:
+p. 149
 
-1. C6R.2
+1. C9B.10
+2. C9M.2
 
-One problem from C7, p. 113:
+pp. 166-167
 
-2. C7B.1
+3. C10B.3
+4. C10B.7
+5. C10M.6
 
-Three problems from C8, pp. 131-133
 
-3. C8B.10
-4. C8M.11
-5. C8M.13\
+
+\
 \>", "Text",
  CellChangeTimes->{{3.902344004164525*^9, 3.9023440615736027`*^9}, {
   3.902344155128826*^9, 3.902344198620983*^9}, {3.9026882501193943`*^9, 
@@ -80,66 +84,14 @@ Three problems from C8, pp. 131-133
   3.9031856165619802`*^9, 3.903185674532337*^9}, {3.9041408617853603`*^9, 
   3.904140911914049*^9}, {3.904213019569715*^9, 3.904213024215947*^9}, {
   3.9042130614084883`*^9, 3.9042131070047703`*^9}, {3.904218260220036*^9, 
-  3.904218262368978*^9}},ExpressionUUID->"daa917cc-521c-42dc-b004-\
+  3.904218262368978*^9}, {3.904763701697397*^9, 
+  3.904763764561899*^9}},ExpressionUUID->"daa917cc-521c-42dc-b004-\
 cc06eab40169"]
-}, Open  ]],
-
-Cell["\<\
-I still owe you the lightning trig refresher that I promised to do last \
-weekend!\t\
-\>", "Section",
- CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
-  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
-  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
-  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
-  3.9031854607388773`*^9}, {3.904140837913426*^9, 3.904140840546137*^9}, {
-  3.904140954326441*^9, 3.9041409973455343`*^9}, {3.9041412520743856`*^9, 
-  3.904141252480253*^9}, {3.904212935419592*^9, 
-  3.9042129357011957`*^9}},ExpressionUUID->"cb01125a-fa58-4e3f-84c8-\
-0c479a6cebab"],
-
-Cell[CellGroupData[{
-
-Cell["You guys decide...\t", "Section",
- CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
-  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
-  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
-  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
-  3.9031854607388773`*^9}, {3.904140837913426*^9, 3.904140840546137*^9}, {
-  3.904140954326441*^9, 
-  3.9041410220616627`*^9}},ExpressionUUID->"0b74c022-91b2-40fa-bb7d-\
-39c3015aeb87"],
-
-Cell[TextData[{
- "...if you want me to show you an example of the kind of integral that gives \
-you the factors like  ",
- Cell[BoxData[
-  FormBox[
-   RowBox[{"\[Alpha]", "=", 
-    FractionBox["1", "2"]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "5eef2125-8640-4938-8cbf-c162c38cee15"],
- " for a disk or cylinder. In principle they are three-dimensional integrals \
-over the volume of the rotating object, but in symmetrical situations they \
-usually quickly reduce to one- or two-dimensional integrals."
-}], "Text",
- CellChangeTimes->{{3.902344004164525*^9, 3.9023440615736027`*^9}, {
-  3.902344155128826*^9, 3.902344198620983*^9}, {3.9026882501193943`*^9, 
-  3.902688316359304*^9}, {3.9026884000372458`*^9, 3.902688440076583*^9}, {
-  3.902688478551547*^9, 3.9026884948306503`*^9}, {3.902689395662417*^9, 
-  3.902689401015161*^9}, {3.902928345278255*^9, 3.9029283859129333`*^9}, {
-  3.902928446628468*^9, 3.902928446965848*^9}, {3.9029284836743317`*^9, 
-  3.9029285320262623`*^9}, {3.9031855105202208`*^9, 3.9031855528085747`*^9}, {
-  3.9031856165619802`*^9, 3.903185674532337*^9}, {3.9041408617853603`*^9, 
-  3.904140911914049*^9}, {3.904141106187274*^9, 3.9041412447065496`*^9}, {
-  3.904141616745915*^9, 3.904141632539268*^9}, {3.904212951642386*^9, 
-  3.9042129866636953`*^9}},ExpressionUUID->"5cb0cb4b-e715-4d98-a9af-\
-305bc380c893"]
 }, Open  ]]
 }, Open  ]]
 },
 WindowSize->{808, 911},
-WindowMargins->{{-935, Automatic}, {Automatic, 79}},
+WindowMargins->{{Automatic, 671}, {Automatic, 38}},
 PrintingCopies->1,
 PrintingPageRange->{1, Automatic},
 FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
@@ -158,16 +110,11 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 529, 8, 69, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
-Cell[1112, 32, 599, 12, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[580, 22, 575, 8, 69, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[1158, 32, 717, 14, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
 Cell[CellGroupData[{
-Cell[1736, 48, 459, 7, 53, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
-Cell[2198, 57, 1008, 26, 311, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
-}, Open  ]],
-Cell[3221, 86, 681, 12, 105, "Section",ExpressionUUID->"cb01125a-fa58-4e3f-84c8-0c479a6cebab"],
-Cell[CellGroupData[{
-Cell[3927, 102, 510, 8, 53, "Section",ExpressionUUID->"0b74c022-91b2-40fa-bb7d-39c3015aeb87"],
-Cell[4440, 112, 1366, 24, 86, "Text",ExpressionUUID->"5cb0cb4b-e715-4d98-a9af-305bc380c893"]
+Cell[1900, 50, 506, 8, 53, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[2409, 60, 970, 28, 334, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]]
 }, Open  ]]
 }
