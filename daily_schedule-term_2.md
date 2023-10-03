@@ -30,13 +30,13 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 5  &mdash; Energy Conservation &mdash; Work
 
 * Preparation for Tuesday, Sept. 26 &mdash; [For Tuesday](./assignments/AssignmentFor2023-09-26.pdf)
-* Preparation for Friday, Sept. 29&mdash; [For Friday](./assignments/AssignmentFor2023-09-29.pdf)
+* Preparation for Friday, Sept. 29 &mdash; [For Friday](./assignments/AssignmentFor2023-09-29.pdf)
 * Brian's Lightning [Trig Refresher](./resources/TrigRefresher.pdf) (should help with the cos&theta; that shows up in the work and dot product formulas)
 
 ### Week 6  &mdash; Rotational Energy
 
 * Preparation for Tuesday, Oct. 3 &mdash; [For Tuesday](./assignments/AssignmentFor2023-10-03.pdf)
-* Preparation for Friday, Oct. 6 &mdash; *Six Ideas* C12 &mdash; Problem Set 6
+* Preparation for Friday, Oct. 6 &mdash; [For Friday](./assignments/AssignmentFor2023-10-06.pdf)
 
 ### Week 7  &mdash; Midterm
 
