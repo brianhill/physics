@@ -36,6 +36,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 6  &mdash; Rotational Energy
 
 * Preparation for Tuesday, Oct. 3 &mdash; [For Tuesday](./assignments/AssignmentFor2023-10-03.pdf)
+* Tuesday, Oct. 3 &mdash; The proof that the work your hand does on a spring when compressing it is *W=&half;k<sub>s</sub>x<sup>2</sup>*
 * Preparation for Friday, Oct. 6 &mdash; [For Friday](./assignments/AssignmentFor2023-10-06.pdf)
 
 ### Week 7  &mdash; Midterm
