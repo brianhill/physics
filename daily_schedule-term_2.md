@@ -37,11 +37,12 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 * Preparation for Tuesday, Oct. 3 &mdash; [For Tuesday](./assignments/AssignmentFor2023-10-03.pdf)
 * Tuesday, Oct. 3 &mdash; The proof that the work your hand does on a spring when compressing it is *W=&half;k<sub>s</sub>x<sup>2</sup>*
-* Preparation for Friday, Oct. 6 &mdash; [For Friday](./assignments/AssignmentFor2023-10-06.pdf)
+* Preparation for Friday, Oct. 6 &mdash; [For Friday](./assignments/AssignmentFor2023-10-06.pdf)\
+* Friday, Oct. 6 &mdash; We used some spare time to go back to the Work-Energy theorem (as it is often called, but Moore considers it to follow from mommentum conservation, which is indeed an ingredient of the derivation) &mdash; Moore used the derivation to define work &mdash; The definition makes it so that the work done on an object is its change in kinetic energy &mdash; Note that this definition of work has little to do with the human experience of work, but this is only because human muscles cannot maintain static force without expending chemical energy &mdash; In general, physicists are careful to define technical terms so that they refine but nonetheless agree with everyday experience &mdash; In this case, the technical term and the everyday experience diverge
 
 ### Week 7  &mdash; Midterm
 
-* Weekend Q&amp;A session(s) to be scheduled
+* Saturday, Oct. 7 &mdash; Weekend Q&amp;A session at 1pm
 * Tuesday, Oct. 10 &mdash; Midterm
 
 ![Chris Hadfield floating inside the ISS](./resources/ChrisHadfield.jpeg)
