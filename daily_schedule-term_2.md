@@ -43,7 +43,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 7  &mdash; Midterm
 
 * Saturday, Oct. 7 &mdash; Weekend Q&amp;A session at 1pm
-* Tuesday, Oct. 10 &mdash; Midterm
+* Tuesday, Oct. 10 &mdash; [Midterm](./exams/Term2Exam.pdf)
 
 ### Week 8
 
