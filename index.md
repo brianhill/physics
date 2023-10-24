@@ -8,11 +8,11 @@ A [PDF of the Syllabus](./PhysicsSyllabus.pdf) containing essentially the same i
 
 ## Overview
 
-Our essential goal in one semester will be to understand Newtonian physics, but with a modern perspective. The course presumes previous exposure to calculus, but I can provide reminders for all the definitions and theorems used.
+Our essential goal in one semester will be to understand Newtonian physics, but with a modern perspective. The course presumes previous exposure to calculus, but I will provide reminders for all the definitions and theorems used.
 
-To be a transferrable and meaningful preparation for what will be your second semester of college-level introductory physics elsewhere, we cannot completely depart from what is standard. We certainly don’t have to mimic any particular methodology for covering that material.
+To be a transferrable and meaningful preparation for what will be your second semester of college-level introductory physics elsewhere, we cannot completely depart from what is standard. On the other hand, we certainly don’t have to mimic any particular methodology for covering that material.
 
-It is important to note that the Deep Springs course format (where we meet two days per week for one-and-a-half hours and budget a lot of time for discussion and wrong turns), cannot cover all the material that a class meeting four times a week for one hour lectures can. We will therefore be going deeper into fewer topics.
+We will begin the semester with a study of the major conservation laws. In most courses these are presented as following from Newtonian mechanics. However, as physics progressed into the 20th century, and Newtonian mechanics underwent relativistic and quantum-mechanical modifications, the conservation laws have survived. In a modern introduction, it therefore makes sense to begin with the conservation laws and then in the second half of the semester, we will see Newtonian mechanics as the first example of a detailed physical theory that obeys them.
 
 ## Daily Schedules
 
