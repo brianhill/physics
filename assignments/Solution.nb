@@ -1,0 +1,368 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     13349,        360]
+NotebookOptionsPosition[     12692,        338]
+NotebookOutlinePosition[     13138,        356]
+CellTagsIndexPosition[     13095,        353]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Solution to First Problem on Problem Set #7", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
+  3.9031854607388773`*^9}, {3.9053588870400476`*^9, 3.905358891225012*^9}, {
+  3.9071613707674503`*^9, 3.9071613718924923`*^9}, {3.9074109790092382`*^9, 
+  3.907410985365169*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+643fa1caea91"],
+
+Cell[CellGroupData[{
+
+Cell["C14M.10, p. 237", "Subsection",
+ CellChangeTimes->{{3.907161511820457*^9, 3.907161517693348*^9}, {
+  3.9071757851311502`*^9, 3.907175786965211*^9}, {3.90741099150782*^9, 
+  3.907410997548511*^9}},ExpressionUUID->"1fa29c0e-9628-4e6b-b47c-\
+d1eaac303563"],
+
+Cell[TextData[{
+ "To make the variable names memorable, let\[CloseCurlyQuote]s do the \
+following: for the Frisbee, which is both spinning and moving, we\
+\[CloseCurlyQuote]ll use lower-case variables:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"m", ",", " ", 
+    OverscriptBox["v", "\[RightVector]"], ",", " ", "i", ",", " ", 
+    OverscriptBox["\[Omega]", "\[RightVector]"]}], TraditionalForm]],
+  ExpressionUUID->"e688d715-a381-4adb-9163-8060f045bff9"],
+ "\n\nWe also have ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"i", "=", 
+    RowBox[{"\[Alpha]", "\[VeryThinSpace]", "m", "\[VeryThinSpace]", 
+     SuperscriptBox["r", "2"]}]}], TraditionalForm]],ExpressionUUID->
+  "eb09b2af-ac78-469c-adb5-8408c623ab0a"],
+ " for the Frisbee. For the astronaut, who initially is neither spinning nor \
+moving, we\[CloseCurlyQuote]ll use upper-case variables: ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"M", ",", " ", "I"}], TraditionalForm]],ExpressionUUID->
+  "351c1321-49b7-4dac-848d-759c618150ad"],
+ ".\n\nWe also have ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"I", "=", 
+    RowBox[{"A", "\[VeryThinSpace]", "M", "\[VeryThinSpace]", 
+     SuperscriptBox["R", "2"]}]}], TraditionalForm]],ExpressionUUID->
+  "89ae5e6a-6b0e-42c6-8e0f-a4048278742f"],
+ " for the astronaut. For the combined Frisbee-astronaut system after the \
+catch, the relevant variables are: ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"m", "+", "M"}], ",", " ", 
+    OverscriptBox["V", "\[RightVector]"], ",", " ", 
+    RowBox[{"I", "+", "i"}], ",", " ", 
+    OverscriptBox["\[CapitalOmega]", "\[RightVector]"]}], TraditionalForm]],
+  ExpressionUUID->"519a7c97-9f1f-4663-a2a9-9c070b7546fc"],
+ ".\n\nFinally, we have Moore\[CloseCurlyQuote]s suggestion to introduce \
+dimensionless ratios: ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"b", "\[Congruent]", 
+    FractionBox["m", "M"]}], TraditionalForm]],ExpressionUUID->
+  "7144385f-6689-4074-84fc-c2a8658455f2"],
+ ",     ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"\[Rho]", "\[Congruent]", 
+    FractionBox["r", "R"]}], TraditionalForm]],ExpressionUUID->
+  "028db1f3-b665-469f-aa8e-6fa979227d59"],
+ ",   and ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"\[LeftBracketingBar]", 
+     OverscriptBox["\[Omega]", "\[RightVector]"], "\[RightBracketingBar]"}], 
+    "=", 
+    RowBox[{"u", " ", 
+     FractionBox[
+      RowBox[{"\[LeftBracketingBar]", 
+       OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], 
+      "r"]}]}], TraditionalForm]],ExpressionUUID->
+  "6b1cb7a5-95ae-4330-af73-8d896fbe308b"],
+ ". The last of those three equations serves to define ",
+ Cell[BoxData[
+  FormBox["u", TraditionalForm]],ExpressionUUID->
+  "bac6f1a3-d8fe-4c58-a04f-633daa7176ad"],
+ ". Be careful to put the ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"2", "\[Pi]"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "84d84ae6-bdf2-44e3-bb19-8ded211a9391"],
+ " in to convert  ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"\[LeftBracketingBar]", 
+    OverscriptBox["\[Omega]", "\[RightVector]"], "\[RightBracketingBar]"}], 
+   TraditionalForm]],ExpressionUUID->"152fd8b7-ed79-4d4e-8254-51d271fdd32c"],
+ " given in rev/s to rad/s.\n\n(a) We found (using conservation of ordinary \
+momentum) that:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    OverscriptBox["V", "\[RightVector]"], "=", 
+    RowBox[{
+     RowBox[{
+      FractionBox[
+       RowBox[{"m", "\[VeryThinSpace]"}], 
+       RowBox[{"m", "+", "M"}]], 
+      OverscriptBox["v", "\[RightVector]"]}], "=", 
+     RowBox[{
+      FractionBox["b", 
+       RowBox[{"b", "+", "1"}]], 
+      OverscriptBox["v", "\[RightVector]"]}]}]}], TraditionalForm]],
+  ExpressionUUID->"db224dbf-d6a5-4bba-bdf4-ad6d291d7759"],
+ "\n\n(b) We found (using conservation of angular momentum) that:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    OverscriptBox["\[CapitalOmega]", "\[RightVector]"], "=", 
+    RowBox[{
+     RowBox[{
+      FractionBox[
+       RowBox[{"i", "\[VeryThinSpace]"}], 
+       RowBox[{"i", "+", "I"}]], 
+      OverscriptBox["\[Omega]", "\[RightVector]"]}], "=", 
+     RowBox[{
+      RowBox[{
+       FractionBox[
+        RowBox[{"\[Alpha]", "\[VeryThinSpace]", "m", "\[VeryThinSpace]", 
+         SuperscriptBox["r", "2"]}], 
+        RowBox[{
+         RowBox[{"\[Alpha]", "\[VeryThinSpace]", "m", "\[VeryThinSpace]", 
+          SuperscriptBox["r", "2"]}], "+", 
+         RowBox[{"A", "\[VeryThinSpace]", "M", "\[VeryThinSpace]", 
+          SuperscriptBox["R", "2"]}]}]], 
+       OverscriptBox["\[Omega]", "\[RightVector]"]}], "=", 
+      RowBox[{
+       FractionBox[
+        RowBox[{"\[Alpha]", "\[VeryThinSpace]", "b", "\[VeryThinSpace]", 
+         SuperscriptBox["\[Rho]", "2"]}], 
+        RowBox[{
+         RowBox[{"\[Alpha]", "\[VeryThinSpace]", "b", "\[VeryThinSpace]", 
+          SuperscriptBox["\[Rho]", "2"]}], "+", "A"}]], 
+       OverscriptBox["\[Omega]", "\[RightVector]"]}]}]}]}], TraditionalForm]],
+  ExpressionUUID->"cc04d107-34e5-40d4-9974-7ca1b8c3feed"],
+ "\n\n(c) We calculated ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["K", "i"], TraditionalForm]],ExpressionUUID->
+  "bcf9ffb1-c761-425f-bc97-03bd460a7011"],
+ ", where ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["K", "i"], TraditionalForm]],ExpressionUUID->
+  "14dfb7ea-732f-442c-8ea2-e2e5adc1ab43"],
+ " is the sum of the initial translational and rotational kinetic energy in \
+the Frisbee. It was:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["K", "i"], "=", 
+    RowBox[{
+     RowBox[{
+      RowBox[{
+       FractionBox["1", "2"], "m", "\[VeryThinSpace]", 
+       SuperscriptBox[
+        RowBox[{"\[LeftBracketingBar]", 
+         OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], 
+        "2"]}], "+", " ", 
+      RowBox[{
+       FractionBox["1", "2"], "i", "\[VeryThinSpace]", 
+       SuperscriptBox[
+        RowBox[{"\[LeftBracketingBar]", 
+         OverscriptBox["\[Omega]", "\[RightVector]"], 
+         "\[RightBracketingBar]"}], "2"]}]}], "=", 
+     RowBox[{
+      RowBox[{
+       RowBox[{
+        FractionBox["1", "2"], "m", "\[VeryThinSpace]", 
+        SuperscriptBox[
+         RowBox[{"\[LeftBracketingBar]", 
+          OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], 
+         "2"]}], "+", 
+       RowBox[{
+        FractionBox["1", "2"], "\[Alpha]", "\[VeryThinSpace]", "m", 
+        "\[VeryThinSpace]", 
+        SuperscriptBox["r", "2"], 
+        SuperscriptBox[
+         RowBox[{"\[LeftBracketingBar]", 
+          OverscriptBox["\[Omega]", "\[RightVector]"], 
+          "\[RightBracketingBar]"}], "2"]}]}], "=", 
+      RowBox[{
+       RowBox[{
+        RowBox[{
+         FractionBox["1", "2"], "m", "\[VeryThinSpace]", 
+         SuperscriptBox[
+          RowBox[{"\[LeftBracketingBar]", 
+           OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], 
+          "2"]}], "+", 
+        RowBox[{
+         FractionBox["1", "2"], "\[Alpha]", "\[VeryThinSpace]", "m", 
+         "\[VeryThinSpace]", 
+         SuperscriptBox["r", "2"], 
+         SuperscriptBox[
+          RowBox[{"(", 
+           RowBox[{"u", " ", 
+            FractionBox[
+             RowBox[{"\[LeftBracketingBar]", 
+              OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], 
+             StyleBox["r",
+              FontSize->12]]}], ")"}], "2"]}]}], "=", 
+       RowBox[{
+        FractionBox["1", "2"], "m", "\[VeryThinSpace]", 
+        SuperscriptBox[
+         RowBox[{"\[LeftBracketingBar]", 
+          OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], 
+         "2"], 
+        RowBox[{"(", 
+         RowBox[{"1", "+", 
+          RowBox[{"\[Alpha]", "\[VeryThinSpace]", 
+           SuperscriptBox["u", "2"]}]}], ")"}]}]}]}]}]}], TraditionalForm]],
+  ExpressionUUID->"54799799-ec14-484c-a284-9c15d0f180c6"],
+ "\n\nI lost the \[Alpha] in my write-up :( :(. We calculated ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["K", "f"], TraditionalForm]],ExpressionUUID->
+  "8f44dc1b-72cf-4519-a63d-85ba510fefcb"],
+ ". It was:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["K", "f"], "=", 
+    RowBox[{
+     RowBox[{
+      RowBox[{
+       FractionBox["1", "2"], 
+       RowBox[{"(", 
+        RowBox[{"m", "+", "M"}], ")"}], "\[VeryThinSpace]", 
+       SuperscriptBox[
+        RowBox[{"\[LeftBracketingBar]", 
+         OverscriptBox["V", "\[RightVector]"], "\[RightBracketingBar]"}], 
+        "2"]}], "+", " ", 
+      RowBox[{
+       FractionBox["1", "2"], 
+       RowBox[{"(", 
+        RowBox[{"i", "+", "I"}], ")"}], "\[VeryThinSpace]", 
+       SuperscriptBox[
+        RowBox[{"\[LeftBracketingBar]", 
+         OverscriptBox["\[CapitalOmega]", "\[RightVector]"], 
+         "\[RightBracketingBar]"}], "2"]}]}], "=", 
+     RowBox[{
+      RowBox[{
+       FractionBox["1", "2"], 
+       RowBox[{"(", 
+        RowBox[{"m", "+", "M"}], ")"}], "\[VeryThinSpace]", 
+       SuperscriptBox[
+        RowBox[{"(", 
+         FractionBox["b", 
+          RowBox[{"b", "+", "1"}]], ")"}], "2"], 
+       SuperscriptBox[
+        RowBox[{"\[LeftBracketingBar]", 
+         OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], 
+        "2"]}], "+", " ", 
+      RowBox[{
+       FractionBox["1", "2"], 
+       StyleBox[
+        RowBox[{"(", 
+         RowBox[{
+          RowBox[{"\[Alpha]", "\[VeryThinSpace]", "m", "\[VeryThinSpace]", 
+           SuperscriptBox["r", "2"]}], "+", 
+          RowBox[{"A", "\[VeryThinSpace]", "M", "\[VeryThinSpace]", 
+           SuperscriptBox["R", "2"]}]}], ")"}],
+        Background->RGBColor[1, 0.9, 1]], 
+       StyleBox["\[VeryThinSpace]",
+        Background->RGBColor[1, 0.9, 1]], 
+       SuperscriptBox[
+        RowBox[{"(", 
+         FractionBox[
+          RowBox[{"\[Alpha]", "\[VeryThinSpace]", "b", "\[VeryThinSpace]", 
+           SuperscriptBox["\[Rho]", "2"]}], 
+          RowBox[{
+           RowBox[{"\[Alpha]", "\[VeryThinSpace]", "b", "\[VeryThinSpace]", 
+            SuperscriptBox["\[Rho]", "2"]}], "+", "A"}]], ")"}], "2"], 
+       SuperscriptBox[
+        RowBox[{"(", 
+         RowBox[{"u", " ", 
+          FractionBox[
+           RowBox[{"\[LeftBracketingBar]", 
+            OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], 
+           StyleBox["r",
+            FontSize->12,
+            Background->RGBColor[0.88, 1, 0.88]]]}], ")"}], "2"]}]}]}]}], 
+   TraditionalForm]],ExpressionUUID->"7cbfa23c-9c75-4a96-bbd5-9cf78ef48305"],
+ "\n\nThat was as far as we got on the blackboard."
+}], "Text",
+ CellChangeTimes->CompressedData["
+1:eJwlzmtIUwEABeBtxrBJk9ikLcacqUvKhC18MObgupiRIThL5kbrgYn20B9L
+8pUOaq0Mio1lMStK3AilMolJrkREqHaH1LZYDttSoq3i1pA06CHdc/tx+P6c
+AyfvWLv+OIfFYpXQgQGtrSVPQBE/jBPt0JDb1ANFibAVCkPa/le0J/uv2KFU
+wXZCs4VzA+q8b4bguCt2G9qUHfwA7e5eWTY8myzya4QUMVNWOQNbJZEXUJWK
+M8pcHUFYELWGoNfzev8z2ncJsR5O/95shKnMuqNQmXOK/JRDEbHpaxHou8rr
+StLGXWlGS0ZmH5xMaGww6tKYBFsoIi1eMUNuPbcZzu/tbYVTq/Y2OEgetkDS
+0X2/QUQR3db8R5D3sjIAdWF+EO7wXw7Bp9ujjMMJ88Ul2upkxQD8tf7nOqwQ
+cj3w4cL30ToJRUhOcx7DtUvv/bDrnjsFOw/tyjDQzhXOlsPJIr8aBmJH6uFK
+1bgBmoeXzsAD8oIeOOhk34VxX/YI5Gt+jkHyOe8J038g+AgNjaMpGNF/XYMN
+8tq/ULmQvw7de/ScRuz2/feWonwj/KCTZsEx06IQNo8UmiCbIJtglnu5DYo+
+b9hkxB/HWz5MB9QCWFxSw1jrqREbmX/zjI65c9vgoupEMdNrsSng+dmbpdC3
+arKTtCmndABW5ZJDUFbmuQPVU+mdQdovnYJSyO2bUEF5eKsWfruwXA19Tu9B
++A83TVTU
+  "],ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{201, Automatic}, {Automatic, 0}},
+PrintingCopies->2,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 585, 8, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[CellGroupData[{
+Cell[1190, 34, 259, 4, 54, "Subsection",ExpressionUUID->"1fa29c0e-9628-4e6b-b47c-d1eaac303563"],
+Cell[1452, 40, 11212, 294, 803, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
