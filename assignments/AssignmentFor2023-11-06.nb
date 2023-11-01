@@ -1,0 +1,188 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      7392,        180]
+NotebookOptionsPosition[      6288,        150]
+NotebookOutlinePosition[      6736,        168]
+CellTagsIndexPosition[      6693,        165]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Physics, Preparation for Tuesday, Nov. 6", "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}, {3.902688198161932*^9, 3.902688210170267*^9}, {
+  3.902930581038875*^9, 3.90293058270744*^9}, {3.9031851047434187`*^9, 
+  3.903185107369246*^9}, {3.903796719511032*^9, 3.90379671975321*^9}, {
+  3.90441241155903*^9, 3.9044124119419613`*^9}, {3.9050745643598127`*^9, 
+  3.905074566688058*^9}, {3.9053588481058683`*^9, 3.905358854573118*^9}, {
+  3.905676991107874*^9, 3.905676994582753*^9}, {3.907427588657308*^9, 
+  3.907427591198588*^9}, {3.90781710301303*^9, 
+  3.907817106015664*^9}},ExpressionUUID->"0a9f033e-46a1-4578-becc-\
+919930044f24"],
+
+Cell[TextData[{
+ "Read N2 from ",
+ StyleBox["Six Ideas",
+  FontSlant->"Italic"]
+}], "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.905676998035874*^9, 
+  3.9056770181620903`*^9}, {3.907427596733724*^9, 
+  3.907427604529786*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
+995e6360c459"],
+
+Cell[CellGroupData[{
+
+Cell["Presentations", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
+  3.9031854607388773`*^9}, {3.9053588870400476`*^9, 3.905358891225012*^9}, {
+  3.905677023539398*^9, 3.905677069281822*^9}, {3.9074281558454227`*^9, 
+  3.907428161470359*^9}, {3.907428478145879*^9, 
+  3.9074284793275337`*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+643fa1caea91"],
+
+Cell[CellGroupData[{
+
+Cell["Problem Presentations", "Subsection",
+ CellChangeTimes->{{3.9074286536229877`*^9, 3.907428656727818*^9}, {
+  3.907429229771274*^9, 
+  3.907429232718843*^9}},ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-\
+21392823af5f"],
+
+Cell["\<\
+1. Emma, N1M.7, p. 18
+2. Will, N1R.3, p. 19
+3. Hexi, N2B.8, p. 35
+4. Trey, N2M.5, p. 36
+5. Jack, N2M.7, p. 37
+6. Rebecca, N2M.8, p. 37\
+\>", "Text",
+ CellChangeTimes->CompressedData["
+1:eJwdxVtIWgEABmBLEonlcto6kuRlsUmwIFshgsIhsB7GWA1iKDg2tijaMpKI
+zErGTOciKVw9RASxopcoemg4RysaLC/EUkGJ0EUX7eFASG00TTr/efj4ZK9M
+rW8KWSxWFQ0HGu0dMgFFXujXTPi55PUgJpIRGxaGG0f89F0jnxy4srZgEhvN
+hdNYt7g3g1c9+7PYruzjBejrrNLbuD+l8GmFFLnZoNnEneLoL6xOJ5ilnr4Q
+rorZwnhx4ffj7/TxpKgVb2T5epzmtrzEyrK3wdMyitzfcEfx+njxQIo+4Tln
+NrO5w/hrUmvHMY/WICinyHNRxog5zzjteLfZ2om/XTq68VTwhRkHJyxLbQRF
+Wmz3VnDxjiaAdRFeCFf7Poax90GMeT5pHD2kb0qpXPh/PvcZq4ScBfzzhyFh
+FVHknP8Ds3qWPMIlJctpXGfJZvGjUH0OE1uS0iH6tWs2H7epplcjYoq8dbrO
+fCx/f4gNzt5jfIdwneExry2Da3xnefzE8a40Sv9wMHYX93J3ynHuZLsCc+IJ
+Me7+tyvFXxROOTYeuO7jHpebuehqsho/7ZpR4r/bhAn/Ydcw3wAo5BlR
+  "],ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Theory Presentation", "Subsection",
+ CellChangeTimes->{{3.9074286536229877`*^9, 3.907428668146638*^9}, {
+  3.9074292237413797`*^9, 
+  3.9074292260364523`*^9}},ExpressionUUID->"1b558f0a-52fa-4c74-a45c-\
+7b5476ed36f1"],
+
+Cell[TextData[{
+ "The derivation of  ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"\[LeftBracketingBar]", 
+     OverscriptBox["a", "\[RightVector]"], "\[RightBracketingBar]"}], "=", 
+    FractionBox[
+     SuperscriptBox[
+      RowBox[{"\[LeftBracketingBar]", 
+       OverscriptBox["v", "\[RightVector]"], "\[RightBracketingBar]"}], "2"], 
+     "r"]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "3729f9fa-2b5c-4bca-9573-e2d80f74e5dd"],
+ ", with the direction of ",
+ Cell[BoxData[
+  FormBox[
+   OverscriptBox["a", "\[RightVector]"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "b4f81048-d26e-4dcd-b9df-dc8b7d8eac54"],
+ " being toward the center, for uniform circular motion, p. 15.\n\nComment:\n\
+\nMaintaining uniform circular motion requires a \
+\[OpenCurlyDoubleQuote]centripetal\[CloseCurlyDoubleQuote] force.\n\nIf you \
+are going in a circle, it may feel like you are being flung outward, and this \
+illusion is commonly referred to as \[OpenCurlyDoubleQuote]centrifugal\
+\[CloseCurlyDoubleQuote] force. The truth is that you must be constantly \
+tugged toward the center of the circle, whether by a cable or a railing, as \
+in Emma\[CloseCurlyQuote]s problem.\n\nAn extremely good thing to contemplate \
+is what happens if the cable snaps. Are you flung outward!?!"
+}], "Text",
+ CellChangeTimes->CompressedData["
+1:eJwdxVtIU3EAB+ClMIaoaU7daLpp0UQoyJUMwcFBUB9WpJGE05ViMvHKhmhz
+uiHO6exCMvUhRBAnvVRioelkGQa5C2LbZCJ1hqRuPhwRUYI2pf/vPHx8OfXt
+lc/iOByOlMDuErMmJ42hTqvn2/FjcUMPFoT8Jsz3lRhd5GbjiAVn3740itW6
+uAlcOvvzLZ6z7Uxic0FnspssM0gu465wnkPBZ6jVwuJV3CQK/MBFEZpdYuv0
+4utBkw/P2jeVK+TtkLASO6Op1TjCq6jDBektnoN0htpxvg7ghVcJz8Nk2nbM
+rovn9eHFkMKMgzaFKi2ToY6FJ2rMfchtxBvlhia8fGZpw+OeJzrseaN/VyVg
+KL3p2kecsF7sxqX+ZC/Odwz78JI0yD4dUg/uksvCciv+dxEbw3I+146/f1XR
+BiFDTbkG2IsmqT84Kel9BMv00Si+470bw4Jv4pRe8vx5fCqukk/M+UUMlXiw
+wL6X27+LVUPaPXxFYD3EL5ZMJ/iW4/AC37e0pgTIN3uCGVjLW8/Esf21q5i7
+TYtw298NCZ7JG8rF6l/WG1hpz8rHcsknGT6iPzzCtZ+/qHCr67wGPyj/rcHL
+gwMt7M5ELX7avWXETum9rC3yyw4N+3+EeDJR
+  "],ExpressionUUID->"e65efb7d-3f32-4f48-b08f-84f8727bc7d5"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{479, Automatic}, {Automatic, 105}},
+PrintingCopies->2,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 767, 11, 69, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[1350, 35, 814, 15, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[CellGroupData[{
+Cell[2189, 54, 602, 9, 53, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[CellGroupData[{
+Cell[2816, 67, 220, 4, 54, "Subsection",ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-21392823af5f"],
+Cell[3039, 73, 862, 19, 150, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3938, 97, 222, 4, 54, "Subsection",ExpressionUUID->"1b558f0a-52fa-4c74-a45c-7b5476ed36f1"],
+Cell[4163, 103, 2085, 42, 296, "Text",ExpressionUUID->"e65efb7d-3f32-4f48-b08f-84f8727bc7d5"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+

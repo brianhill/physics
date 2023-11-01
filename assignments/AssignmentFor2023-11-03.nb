@@ -1,0 +1,225 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     10060,        217]
+NotebookOptionsPosition[      8857,        186]
+NotebookOutlinePosition[      9305,        204]
+CellTagsIndexPosition[      9262,        201]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[TextData[StyleBox["Physics, Preparation for Friday, Nov. 3",
+ FontSize->28]], "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}, {3.902688198161932*^9, 3.902688210170267*^9}, {
+  3.902930581038875*^9, 3.90293058270744*^9}, {3.9031851047434187`*^9, 
+  3.903185107369246*^9}, {3.903796719511032*^9, 3.90379671975321*^9}, {
+  3.90441241155903*^9, 3.9044124119419613`*^9}, {3.9050745643598127`*^9, 
+  3.905074566688058*^9}, {3.9053588481058683`*^9, 3.905358854573118*^9}, {
+  3.907161363094699*^9, 3.907161363329534*^9}, {3.907817195186039*^9, 
+  3.9078171967822523`*^9}, {3.9078208031727753`*^9, 3.9078208048154488`*^9}},
+ FontSize->36,
+ FontWeight->"Regular",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+
+Cell[TextData[{
+ "Read N3 from ",
+ StyleBox["Six Ideas",
+  FontSlant->"Italic"]
+}], "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.90716136712265*^9, 
+  3.9071613675384903`*^9}, {3.907817201304674*^9, 
+  3.9078172014059343`*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
+995e6360c459"],
+
+Cell[CellGroupData[{
+
+Cell["Office Hours", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.90716136712265*^9, 
+  3.9071613675384903`*^9}, {3.907817201304674*^9, 3.9078172014059343`*^9}, {
+  3.907819876726859*^9, 
+  3.907819878335541*^9}},ExpressionUUID->"94478580-814e-47a2-bb87-\
+fec6f66924d7"],
+
+Cell[TextData[{
+ "I try to be available from after classes let out to 9pm every day of the \
+term, but some of you are too polite to just come by the West Duplex and \
+knock. ",
+ StyleBox["Therefore, for the rest of the term, I am adding office hours \
+starting at 10am on Monday and Thursday till whenever people leave",
+  FontSlant->"Italic"],
+ ". If nobody shows up in the first half hour, I might go off and do other \
+things. So come by between 10:00 and 10:30 and stay as long as you like. This \
+shouldn\[CloseCurlyQuote]t detract from me trying to be available at most \
+other times."
+}], "Text",
+ CellChangeTimes->{{3.907818270547716*^9, 3.907818285037993*^9}, {
+  3.9078183185843353`*^9, 3.907818320588147*^9}, {3.907819269179101*^9, 
+  3.9078192727347193`*^9}, {3.9078193031547413`*^9, 3.907819674557852*^9}, {
+  3.907819739493697*^9, 3.907819763475422*^9}, {3.907819829523068*^9, 
+  3.907819834225362*^9}, {3.907819887212215*^9, 3.907820045260414*^9}, {
+  3.907820265883039*^9, 3.907820356894231*^9}, {3.907820538128118*^9, 
+  3.907820559457645*^9}},ExpressionUUID->"e0ad023c-f251-4a99-8bbc-\
+a1b0838b5a7c"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Presentations", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.90716136712265*^9, 
+  3.9071613675384903`*^9}, {3.907817201304674*^9, 3.9078172014059343`*^9}, {
+  3.907818226020639*^9, 
+  3.9078182281248093`*^9}},ExpressionUUID->"7f4e33fe-c357-4329-8b88-\
+3a73f3b00f1a"],
+
+Cell[TextData[{
+ "Carried forward from Oct. 31: Jack, N2M.7, p. 37; Rebecca, N2M.8, p. 37\n\n\
+Brian will compare and contrast what is going on in N2 and N3. In short:\n\n\
+",
+ StyleBox["* In N2, we know position, we use derivatives so get velocity and \
+acceleration, and then multiply by ", "Item"],
+ StyleBox[Cell[BoxData[
+  FormBox["m", TraditionalForm]], "Item",
+  FormatType->TraditionalForm,ExpressionUUID->
+  "f115b539-45bc-4644-8b15-f2967aaccc62"], "Item"],
+ StyleBox[" to get force.\n* In N3, we know force, we divide by ", "Item"],
+ StyleBox[Cell[BoxData[
+  FormBox["m", TraditionalForm]], "Item",
+  FormatType->TraditionalForm,ExpressionUUID->
+  "9d351e49-91ae-4204-a9fc-5aef6704538b"], "Item"],
+ StyleBox[" to get acceleration. We want velocity and position. How on Earth \
+are we going to reverse the chain of reasoning in N3? Using the Fundamental \
+Theorem of Calculus, which is that the integral undoes the derivative!\n* If \
+going from position to velocity was a derivative, going from velocity to \
+position must be an integral.\nSimilarly, if going from velocity to \
+acceleration is a derivative, going from acceleration to velocity must also \
+be an integral.", "Item"]
+}], "Text",
+ CellChangeTimes->{{3.907818270547716*^9, 3.907818285037993*^9}, {
+  3.9078183185843353`*^9, 3.907818320588147*^9}, {3.907819269179101*^9, 
+  3.9078192727347193`*^9}, {3.9078193031547413`*^9, 3.907819674557852*^9}, {
+  3.907819739493697*^9, 3.907819763475422*^9}, {3.907819829523068*^9, 
+  3.907819834225362*^9}, {3.907820133496014*^9, 3.9078201586951523`*^9}, {
+  3.907820199611106*^9, 3.90782023300038*^9}, {3.907820454115037*^9, 
+  3.9078204605610523`*^9}, {3.907820671674325*^9, 3.9078207427243834`*^9}, {
+  3.907820848881441*^9, 
+  3.907820865463976*^9}},ExpressionUUID->"e7222b64-c025-4811-987b-\
+f722d749f0d0"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["For Problem Set #8", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
+  3.9031854607388773`*^9}, {3.9053588870400476`*^9, 3.905358891225012*^9}, {
+  3.9071613707674503`*^9, 3.9071613718924923`*^9}, {3.907817203385817*^9, 
+  3.9078172036221523`*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+643fa1caea91"],
+
+Cell[TextData[{
+ "1. N2M.9, p. 37, a hopefully straightforward application of taking a \
+derivative\n2. N3B.2, p. 50, graphical integration of velocity to get \
+position\n3. N3M.2, p. 51,",
+ StyleBox[" I swapped a more interesting problem in",
+  FontSlant->"Italic"],
+ "\n4. N3M.6, p. 51, this one looks a little tricky (just figuring out what \
+is going on)\n5. N3M.7, p. 51, this one looks a little tricky (it requires \
+integrating ",
+ Cell[BoxData[
+  FormBox[
+   SuperscriptBox["e", 
+    RowBox[{
+     RowBox[{"-", "q"}], "\[VeryThinSpace]", "t"}]], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "4db83ff7-a72c-4261-af55-6f6ea71a2ecc"],
+ ")"
+}], "Subsection",
+ CellChangeTimes->{{3.907161511820457*^9, 3.907161517693348*^9}, {
+   3.9071757851311502`*^9, 3.907175786965211*^9}, 3.907818209992303*^9, {
+   3.9078191362206*^9, 3.90781913785112*^9}, {3.907819172116008*^9, 
+   3.907819176110496*^9}, {3.907820387875669*^9, 3.907820402108921*^9}, {
+   3.9078209817646646`*^9, 3.907821007358383*^9}, {3.907821038037771*^9, 
+   3.907821042290193*^9}, {3.907821088606534*^9, 3.9078210900352592`*^9}, {
+   3.907821135428946*^9, 3.907821158579274*^9}, {3.907821196245142*^9, 
+   3.907821237363723*^9}, {3.907821349401204*^9, 3.907821396425806*^9}, {
+   3.907821450908679*^9, 
+   3.907821516779191*^9}},ExpressionUUID->"1c69a72a-d111-4fd7-96d8-\
+454d4e8bf98c"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{358, Automatic}, {-54, Automatic}},
+PrintingCopies->2,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 842, 12, 61, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[1425, 36, 815, 15, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[CellGroupData[{
+Cell[2265, 55, 801, 12, 53, "Section",ExpressionUUID->"94478580-814e-47a2-bb87-fec6f66924d7"],
+Cell[3069, 69, 1119, 19, 127, "Text",ExpressionUUID->"e0ad023c-f251-4a99-8bbc-a1b0838b5a7c"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4225, 93, 804, 12, 67, "Section",ExpressionUUID->"7f4e33fe-c357-4329-8b88-3a73f3b00f1a"],
+Cell[5032, 107, 1822, 32, 288, "Text",ExpressionUUID->"e7222b64-c025-4811-987b-f722d749f0d0"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6891, 144, 560, 8, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[7454, 154, 1375, 28, 162, "Subsection",ExpressionUUID->"1c69a72a-d111-4fd7-96d8-454d4e8bf98c"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+

@@ -12,3 +12,4 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 ### Week 9 &mdash; Circular Motion &mdash; Force Laws (for gravity, for electrostatics, and for springs)
 
 * Tuesday, Oct. 31 &mdash; *Six Ideas* N2 &mdash; [For Tuesday](./assignments/AssignmentFor2023-10-31.pdf)
+* Friday, Nov. 3 &mdash; *Six Ideas* N3 &mdash; Problem Set 8 [for Friday](./assignments/AssignmentFor2023-11-03.pdf)
