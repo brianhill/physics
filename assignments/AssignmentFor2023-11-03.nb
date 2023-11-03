@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     10060,        217]
-NotebookOptionsPosition[      8857,        186]
-NotebookOutlinePosition[      9305,        204]
-CellTagsIndexPosition[      9262,        201]
+NotebookDataLength[     10028,        215]
+NotebookOptionsPosition[      8826,        184]
+NotebookOutlinePosition[      9273,        202]
+CellTagsIndexPosition[      9230,        199]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -106,19 +106,17 @@ Cell["Presentations", "Section",
 3a73f3b00f1a"],
 
 Cell[TextData[{
- "Carried forward from Oct. 31: Jack, N2M.7, p. 37; Rebecca, N2M.8, p. 37\n\n\
+ "Carried forward from Oct. 31: Jack, N2M.7, p. 37; Rebecca, N2M.8, p. 37.\n\n\
 Brian will compare and contrast what is going on in N2 and N3. In short:\n\n\
 ",
  StyleBox["* In N2, we know position, we use derivatives so get velocity and \
 acceleration, and then multiply by ", "Item"],
  StyleBox[Cell[BoxData[
-  FormBox["m", TraditionalForm]], "Item",
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["m", TraditionalForm]], "Item",ExpressionUUID->
   "f115b539-45bc-4644-8b15-f2967aaccc62"], "Item"],
  StyleBox[" to get force.\n* In N3, we know force, we divide by ", "Item"],
  StyleBox[Cell[BoxData[
-  FormBox["m", TraditionalForm]], "Item",
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["m", TraditionalForm]], "Item",ExpressionUUID->
   "9d351e49-91ae-4204-a9fc-5aef6704538b"], "Item"],
  StyleBox[" to get acceleration. We want velocity and position. How on Earth \
 are we going to reverse the chain of reasoning in N3? Using the Fundamental \
@@ -129,14 +127,14 @@ acceleration is a derivative, going from acceleration to velocity must also \
 be an integral.", "Item"]
 }], "Text",
  CellChangeTimes->{{3.907818270547716*^9, 3.907818285037993*^9}, {
-  3.9078183185843353`*^9, 3.907818320588147*^9}, {3.907819269179101*^9, 
-  3.9078192727347193`*^9}, {3.9078193031547413`*^9, 3.907819674557852*^9}, {
-  3.907819739493697*^9, 3.907819763475422*^9}, {3.907819829523068*^9, 
-  3.907819834225362*^9}, {3.907820133496014*^9, 3.9078201586951523`*^9}, {
-  3.907820199611106*^9, 3.90782023300038*^9}, {3.907820454115037*^9, 
-  3.9078204605610523`*^9}, {3.907820671674325*^9, 3.9078207427243834`*^9}, {
-  3.907820848881441*^9, 
-  3.907820865463976*^9}},ExpressionUUID->"e7222b64-c025-4811-987b-\
+   3.9078183185843353`*^9, 3.907818320588147*^9}, {3.907819269179101*^9, 
+   3.9078192727347193`*^9}, {3.9078193031547413`*^9, 3.907819674557852*^9}, {
+   3.907819739493697*^9, 3.907819763475422*^9}, {3.907819829523068*^9, 
+   3.907819834225362*^9}, {3.907820133496014*^9, 3.9078201586951523`*^9}, {
+   3.907820199611106*^9, 3.90782023300038*^9}, {3.907820454115037*^9, 
+   3.9078204605610523`*^9}, {3.907820671674325*^9, 3.9078207427243834`*^9}, {
+   3.907820848881441*^9, 3.907820865463976*^9}, 
+   3.907980598435314*^9},ExpressionUUID->"e7222b64-c025-4811-987b-\
 f722d749f0d0"]
 }, Open  ]],
 
@@ -185,7 +183,7 @@ integrating ",
 }, Open  ]]
 },
 WindowSize->{808, 911},
-WindowMargins->{{358, Automatic}, {-54, Automatic}},
+WindowMargins->{{229, Automatic}, {66, Automatic}},
 PrintingCopies->2,
 PrintingPageRange->{1, Automatic},
 FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
@@ -212,11 +210,11 @@ Cell[3069, 69, 1119, 19, 127, "Text",ExpressionUUID->"e0ad023c-f251-4a99-8bbc-a1
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[4225, 93, 804, 12, 67, "Section",ExpressionUUID->"7f4e33fe-c357-4329-8b88-3a73f3b00f1a"],
-Cell[5032, 107, 1822, 32, 288, "Text",ExpressionUUID->"e7222b64-c025-4811-987b-f722d749f0d0"]
+Cell[5032, 107, 1791, 30, 288, "Text",ExpressionUUID->"e7222b64-c025-4811-987b-f722d749f0d0"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6891, 144, 560, 8, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
-Cell[7454, 154, 1375, 28, 162, "Subsection",ExpressionUUID->"1c69a72a-d111-4fd7-96d8-454d4e8bf98c"]
+Cell[6860, 142, 560, 8, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[7423, 152, 1375, 28, 162, "Subsection",ExpressionUUID->"1c69a72a-d111-4fd7-96d8-454d4e8bf98c"]
 }, Open  ]]
 }, Open  ]]
 }
