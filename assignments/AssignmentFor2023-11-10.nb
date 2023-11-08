@@ -1,0 +1,219 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      9908,        211]
+NotebookOptionsPosition[      8579,        177]
+NotebookOutlinePosition[      9025,        195]
+CellTagsIndexPosition[      8982,        192]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Physics, Preparation for Friday, Nov. 10", "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}, {3.902688198161932*^9, 3.902688210170267*^9}, {
+  3.902930581038875*^9, 3.90293058270744*^9}, {3.9031851047434187`*^9, 
+  3.903185107369246*^9}, {3.903796719511032*^9, 3.90379671975321*^9}, {
+  3.90441241155903*^9, 3.9044124119419613`*^9}, {3.9050745643598127`*^9, 
+  3.905074566688058*^9}, {3.9053588481058683`*^9, 3.905358854573118*^9}, {
+  3.905676991107874*^9, 3.905676994582753*^9}, {3.907427588657308*^9, 
+  3.907427591198588*^9}, {3.90781710301303*^9, 3.907817106015664*^9}, {
+  3.908062735953104*^9, 3.9080627361432953`*^9}, {3.908397530055784*^9, 
+  3.908397533081296*^9}},ExpressionUUID->"0a9f033e-46a1-4578-becc-\
+919930044f24"],
+
+Cell[TextData[{
+ "Read N5 from ",
+ StyleBox["Six Ideas",
+  FontSlant->"Italic"]
+}], "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.905676998035874*^9, 
+  3.9056770181620903`*^9}, {3.907427596733724*^9, 3.907427604529786*^9}, {
+  3.90806273936226*^9, 3.908062739665884*^9}, {3.908397536872019*^9, 
+  3.90839753691712*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
+995e6360c459"],
+
+Cell[CellGroupData[{
+
+Cell["Office Hours", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.90716136712265*^9, 
+  3.9071613675384903`*^9}, {3.907817201304674*^9, 3.9078172014059343`*^9}, {
+  3.907819876726859*^9, 
+  3.907819878335541*^9}},ExpressionUUID->"63c3bcef-2519-4ab1-b052-\
+82cc499d8390"],
+
+Cell[TextData[{
+ "I have added office hours starting at 10am on Monday and Thursday till \
+whenever people leave. If nobody shows up in the first half hour, I will \
+likely go off and do other things. So come by between 10:00 and 10:30 and \
+stay as long as you like. ",
+ StyleBox["I still remain available at most other times.",
+  FontSlant->"Italic"]
+}], "Text",
+ CellChangeTimes->{{3.907818270547716*^9, 3.907818285037993*^9}, {
+  3.9078183185843353`*^9, 3.907818320588147*^9}, {3.907819269179101*^9, 
+  3.9078192727347193`*^9}, {3.9078193031547413`*^9, 3.907819674557852*^9}, {
+  3.907819739493697*^9, 3.907819763475422*^9}, {3.907819829523068*^9, 
+  3.907819834225362*^9}, {3.907819887212215*^9, 3.907820045260414*^9}, {
+  3.907820265883039*^9, 3.907820356894231*^9}, {3.907820538128118*^9, 
+  3.907820559457645*^9}, {3.908063112218739*^9, 3.908063179268152*^9}, {
+  3.908397548673869*^9, 
+  3.908397566234507*^9}},ExpressionUUID->"25103f70-4292-483d-8a28-\
+27bf4f4316e8"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Presentations", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
+  3.9031854607388773`*^9}, {3.9053588870400476`*^9, 3.905358891225012*^9}, {
+  3.905677023539398*^9, 3.905677069281822*^9}, {3.9074281558454227`*^9, 
+  3.907428161470359*^9}, {3.907428478145879*^9, 
+  3.9074284793275337`*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+643fa1caea91"],
+
+Cell[CellGroupData[{
+
+Cell["N3 Presentations Carried Forward from Nov. 7", "Subsection",
+ CellChangeTimes->{{3.9074286536229877`*^9, 3.907428656727818*^9}, {
+  3.907429229771274*^9, 3.907429232718843*^9}, {3.908062793474523*^9, 
+  3.90806279383449*^9}, {3.9083975809381*^9, 
+  3.908397587477563*^9}},ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-\
+21392823af5f"],
+
+Cell["\<\
+3. Rebecca & Jack, N2R.2, p. 52, a graphical solution and an algebraic \
+solution are both possible
+4. Theory Presentation, Derivation of the Fundamental Theorem of Calculus
+5. Theory Presentation, Uniform Circular Motion, Kepler\[CloseCurlyQuote]s \
+Third Law, and Newton\[CloseCurlyQuote]s Universal Theory of Gravitation\
+\>", "Text",
+ CellChangeTimes->CompressedData["
+1:eJwdxW1IEwEABuDlaK2Zpt7MG805LcqMjGbFEBwclkZElKXEBhOjL7FcOCSa
+S49ozVY5kpWQSBFt9EcSg4VtLMNBehuS22IyYlMyN38cLPsit6R778fDU37e
+0HQxRyAQ7OVgpt5ypZxgqZ/acQM+V3ahB5OJMI2lofq+Ge6OvvtWrDiwYRDr
+jTlDuME1N4zHHLERbFF15zPcNWblVnwjWenRSFlq8nDdJG6XRz7i2lScX+no
+DuKdUTqEXc5PJ7zc8wlZE/ZlCrU4JT7dhlXFVwPLxSwV89kj2D0guZnkjjvS
+/EahuBe/TWgsOOrQ6IgSlkrLVvVYdEZ0Cc8eM7fjd7+snfhJoNWIA49Mr1pI
+ljLRO15jyXQdgxvC+UFc5bkXwhO7o/wvEvq7i9yNSbUNr61nH2O1VOTE/ve6
+uFnGUs9m7vDXjlBfcV7eaArXmDIZfDB4KIvJD2UFt7jH/wkLcYt6aCwsZ6kt
+y27+pYrbi1jX37WEi0jbCn4wQa/ias/KOj5pvVYQ4d7XE92Gu8TTJTj7bWo7
+Fs3H5bjzz6wSv6zsr8D6L7Zd+LrNzr/x72AVPtUxrMK/p0gDXhBW89Olucxm
+BUvNBf2f8fGzb7L4aKl7k4Tb/jBUhBee/yDw5dz9MtyrUO3Ba/7vR0a5B2Le
+ZuxyerXYRzS24qdmgsHptmb+//GlS80=
+  "],ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["For Problem Set #9", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
+  3.9031854607388773`*^9}, {3.9053588870400476`*^9, 3.905358891225012*^9}, {
+  3.9071613707674503`*^9, 3.9071613718924923`*^9}, {3.907817203385817*^9, 
+  3.9078172036221523`*^9}, {3.908397850368978*^9, 
+  3.9083978506054487`*^9}},ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-\
+f23cfcd90912"],
+
+Cell["\<\
+1. N4M.2, p. 68, A good statics problem which I swapped in for N4M.5, because \
+N4M.5 was too much like the next problem N4R.1
+2. N4R.1, p, 69, A torque balancing problem
+3. N5B.7, p. 83, A basic plug-in for a frictionless cart on an inclined plane
+4. N5M.1, p. 83, Requires use of the concept of the coefficient of static \
+friction, quite a bit like Example N5.4, but first you have to estimate what \
+fraction of the car\[CloseCurlyQuote]s weight is on its rear wheels (usually \
+about 40% for front-engine cars)\
+\>", "Subsection",
+ CellChangeTimes->{{3.907161511820457*^9, 3.907161517693348*^9}, {
+   3.9071757851311502`*^9, 3.907175786965211*^9}, 3.907818209992303*^9, {
+   3.9078191362206*^9, 3.90781913785112*^9}, {3.907819172116008*^9, 
+   3.907819176110496*^9}, {3.907820387875669*^9, 3.907820402108921*^9}, {
+   3.9078209817646646`*^9, 3.907821007358383*^9}, {3.907821038037771*^9, 
+   3.907821042290193*^9}, {3.907821088606534*^9, 3.9078210900352592`*^9}, {
+   3.907821135428946*^9, 3.907821158579274*^9}, {3.907821196245142*^9, 
+   3.907821237363723*^9}, {3.907821349401204*^9, 3.907821396425806*^9}, {
+   3.907821450908679*^9, 3.907821516779191*^9}, {3.908397878489965*^9, 
+   3.908397951028851*^9}, {3.908398041423287*^9, 3.9083980586136217`*^9}, {
+   3.908398130040098*^9, 3.908398139118972*^9}, {3.908398169156537*^9, 
+   3.908398192128955*^9}, {3.908398252159361*^9, 3.908398411595109*^9}, {
+   3.908398456684402*^9, 3.9083985365937967`*^9}, {3.908398607154119*^9, 
+   3.908398652335915*^9}},ExpressionUUID->"de13345d-2c0d-4bc2-bae2-\
+ad7e4536bfe2"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{207, Automatic}, {Automatic, 0}},
+PrintingCopies->2,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 864, 12, 69, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[1447, 36, 907, 16, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[CellGroupData[{
+Cell[2379, 56, 801, 12, 53, "Section",ExpressionUUID->"63c3bcef-2519-4ab1-b052-82cc499d8390"],
+Cell[3183, 70, 977, 17, 81, "Text",ExpressionUUID->"25103f70-4292-483d-8a28-27bf4f4316e8"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4197, 92, 602, 9, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[CellGroupData[{
+Cell[4824, 105, 335, 5, 54, "Subsection",ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-21392823af5f"],
+Cell[5162, 112, 1149, 20, 104, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6360, 138, 611, 9, 67, "Section",ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-f23cfcd90912"],
+Cell[6974, 149, 1577, 24, 216, "Subsection",ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+

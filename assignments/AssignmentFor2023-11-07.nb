@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     10351,        233]
-NotebookOptionsPosition[      8798,        195]
-NotebookOutlinePosition[      9246,        213]
-CellTagsIndexPosition[      9203,        210]
+NotebookDataLength[      8854,        201]
+NotebookOptionsPosition[      7526,        167]
+NotebookOutlinePosition[      7974,        185]
+CellTagsIndexPosition[      7931,        182]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -115,21 +115,22 @@ worksheet that leads everyone through part (a), and run the software for them \
 for part (b), http://www.physics.pomona.edu/sixideas/resources.html)
 2. Hexi & Trey, N3R.1, p. 52, a graphical solution and an algebraic solution \
 are both possible
-3. Rebecca & Jack, N2R.2, p. 52, a graphical solution and an algebraic \
+3. Rebecca & Jack, N3R.2, p. 52, a graphical solution and an algebraic \
 solution are both possible for this one too \
 \>", "Text",
  CellChangeTimes->CompressedData["
-1:eJwdxVtIU2EAB/DlaK2Zpm7mGc05NXQJGc2KITj4kDQkpCxEHEyULorlwiHR
-XHqI1mxdRrL0QSQJlV4kMVjYwgsK6TZEt8VEYlM0Nx8OiN2oLen7n4cfv9wm
-Y82NJIFAoKawp9zanCvlyI/6CSOuy7neiZlIgMUyf3n3Ir21+6kNK88c6MUG
-U1I/rhhdGcDjzrVBbNV0pHroJRbVUXwvqnbrZByZOV82g1sUwc+4NBbmVzk7
-fPhEiPXj0ZHlS5/oqxF5DZ6Kp9fjmPhKI9Zk3vZuZ3JkbcoRxK4XkvtReti5
-y28Sirvwh4jOikNOnV6axZFd+Z4Bi66KbuKli5YW/PGnrQ33eRtM2PvS/LaW
-4YiZzX+HJQtlHlwRSPXhIvcTP54sDPG/iRgeb9Aro1o7/rufeIW1MtEInp/W
-hy1yjrxefMRfOkg2cUrKWAyXmONxfNZ3LoGZ2Zy0B/SJf8J0XKvtHw8oOHJk
-28W/lfdwA+t72rdwBmPfwc8m2T1c7N7Zx9W2O2lB+qnO0DHcLl7Iwolvc8ex
-aDWswG2/l1R4WN2Thw1f7QX4rt3Bf/BPbxG+3Dqgwb/mGCNeFxbzs9nJnsNK
-jqz45r/gqmvvE/hCtuuQhO547s/A60PfpfhW8mk57lJqTuL/7lAyTQ==
+1:eJwdxV1IU2EABuDpaK3ZTN2WZzTntCgVUpoVQ3DwIVlEhJpIOFgUlYnlxCHR
+nHqI1mz9jGTlhUgRKV0oicFCF2YopNuQ3CYTiU3JtnlxQMyK2pK+91w8PAVX
+THXX0gUCQTGFvVW2GwUyjmw3jpvwxfyrnZiJBlksD1T1zNNbeh7asfpYWh82
+mtP7cfXw4gAec60MYpu2I9NLL7dq9uHb8SKPXs6R6ZOV07hZFfqMKxIRfo2r
+w48PhdkAHh76cu4DfTmqrMNTyexGnBDXXsZaxU1fTMGRlSlnCLufSO7E6RHX
+Jr9ZKO7G76N6Gw679AZZLkc2lVtGLLoguo4Xzlib8eRPeyt+7rtkxr6nljcN
+DEcs7MG3WDJX6cXVwUw/LvE8COCJI2H+V1Hj/TX66bjOgf/upJ5hnVw0hGc/
+GiJWJUdezN/jrxgk37BUOprA5ZZkEh/3n0hh5lN+Vhd9/J8wGzfo+seCKo7s
+jbn51wvvrmFDb/s6zmEcG/jRBLuFSz0bO/i8/VZWiH60M7wft4vncnHq+8wB
+LFqOqHDr7wUNfl3UW4iNXx2HcZvDyb/rT18JrmkZ0OJfM4wJrwpL+dm8DO8e
+NUcW/bNL+Gz9uxQ+lefeLaE7Hwdy8OrLHzLclFGmxN1qbTHeDkpjI3RLjYL/
+P2L7Or0=
   "],ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]],
 
@@ -160,35 +161,6 @@ t6bFN7X3N7Cpt2MTH+Rc2/jxLJ/AOs/2Lj7vvJEdYpd3hQ/hDvliPk59XziM
 ZcsRNW7/HdDg4dJeLTavu4rxTVef+J4//WW4rm1Qj38tcBb8VaoT54/s82YU
 UELTMgQslBev4FvavWv4WeLlcQU7cO6VDv8HszQsMQ==
   "],ExpressionUUID->"f38fb416-1841-4696-99c9-bf7afc062bf3"]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell["Theory Presentation", "Subsection",
- CellChangeTimes->{{3.9074286536229877`*^9, 3.907428668146638*^9}, {
-  3.9074292237413797`*^9, 
-  3.9074292260364523`*^9}},ExpressionUUID->"1b558f0a-52fa-4c74-a45c-\
-7b5476ed36f1"],
-
-Cell["\<\
-Can people talk to me over the weekend (especially Sunday afternoon) or \
-Monday afternoon about what they might like me to prepare for Tuesday \
-morning. I could prove the fundamental theorem of calculus. It is a \
-remarkable result.\
-\>", "Text",
- CellChangeTimes->CompressedData["
-1:eJwdxVtIk2EABuClMNZQ05y50dRpoUMoyFUMwcGHYF5YlJGE05liMckTG1LN
-1UY4Z+tEMfMiJIg2uqlEQ52TqSzQHZDaJhOrf4jmJvSHSBG0KX3vf/HwFLf1
-1F9P4/F4cgr7qy3a4lyW/G4c78FXi9r7sTgWNmNRqNrko980PbTiwlMHnmON
-Pm0E1zi/vMRj9rVRbKnoy/LTFUbZIXwrLnerRCyZP1s1jzukkUVcmWC4Zfa+
-ID4eNYew0/G5bpa+GpPUY08ypxEnBJdacUVeZ2ArjyVrnqcRPPlEeCdOZ+w7
-3Pp0wT08FVNZcNSuUufms2RHsqvB/Mv8G3i51tiBZ/5Yu/GLQIseB54Z3jaI
-WWIwH/uAhUtVflwTzgricveDEHaVRblfxzSD6/RzcaUN/9tPDWOliO/An+bU
-jFHCkle+Ae7KUbKBMzPfJbDCkEzi08EzKSxeKMq+Sx/fS8/BDcqRsbCUJRlb
-k9ybJffXsXpIt4kPi23b+JHLvItPurf38QVrV3aEfqI/egTrBEv5OPXDexTz
-Vxkp7v67LMNv5EMlWPPNVorrHAXlWCmbUOBfzPsruPnjtBp3+faa8MXa71o8
-MzjQye3J0OFrt1dM2FN2vmCF/rhXy+30ur4eLGSJamH4J/4P9nI6eQ==
-  "],ExpressionUUID->"e65efb7d-3f32-4f48-b08f-84f8727bc7d5"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
@@ -223,15 +195,11 @@ Cell[CellGroupData[{
 Cell[4162, 92, 602, 9, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
 Cell[CellGroupData[{
 Cell[4789, 105, 260, 4, 54, "Subsection",ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-21392823af5f"],
-Cell[5052, 111, 1229, 21, 127, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+Cell[5052, 111, 1242, 22, 127, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6318, 137, 328, 5, 54, "Subsection",ExpressionUUID->"af2c1401-3d48-4021-bb30-15e1fb6978a7"],
-Cell[6649, 144, 824, 17, 81, "Text",ExpressionUUID->"f38fb416-1841-4696-99c9-bf7afc062bf3"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[7510, 166, 222, 4, 54, "Subsection",ExpressionUUID->"1b558f0a-52fa-4c74-a45c-7b5476ed36f1"],
-Cell[7735, 172, 1023, 18, 81, "Text",ExpressionUUID->"e65efb7d-3f32-4f48-b08f-84f8727bc7d5"]
+Cell[6331, 138, 328, 5, 54, "Subsection",ExpressionUUID->"af2c1401-3d48-4021-bb30-15e1fb6978a7"],
+Cell[6662, 145, 824, 17, 81, "Text",ExpressionUUID->"f38fb416-1841-4696-99c9-bf7afc062bf3"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
