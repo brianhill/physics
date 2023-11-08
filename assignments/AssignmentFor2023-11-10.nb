@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      9908,        211]
-NotebookOptionsPosition[      8579,        177]
-NotebookOutlinePosition[      9025,        195]
-CellTagsIndexPosition[      8982,        192]
+NotebookDataLength[      9924,        211]
+NotebookOptionsPosition[      8595,        177]
+NotebookOutlinePosition[      9041,        195]
+CellTagsIndexPosition[      8998,        192]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -111,25 +111,25 @@ Cell["N3 Presentations Carried Forward from Nov. 7", "Subsection",
 21392823af5f"],
 
 Cell["\<\
-3. Rebecca & Jack, N2R.2, p. 52, a graphical solution and an algebraic \
+3. Rebecca & Jack, N3R.2, p. 52, a graphical solution and an algebraic \
 solution are both possible
 4. Theory Presentation, Derivation of the Fundamental Theorem of Calculus
 5. Theory Presentation, Uniform Circular Motion, Kepler\[CloseCurlyQuote]s \
 Third Law, and Newton\[CloseCurlyQuote]s Universal Theory of Gravitation\
 \>", "Text",
  CellChangeTimes->CompressedData["
-1:eJwdxW1IEwEABuDlaK2Zpt7MG805LcqMjGbFEBwclkZElKXEBhOjL7FcOCSa
-S49ozVY5kpWQSBFt9EcSg4VtLMNBehuS22IyYlMyN38cLPsit6R778fDU37e
-0HQxRyAQ7OVgpt5ypZxgqZ/acQM+V3ahB5OJMI2lofq+Ge6OvvtWrDiwYRDr
-jTlDuME1N4zHHLERbFF15zPcNWblVnwjWenRSFlq8nDdJG6XRz7i2lScX+no
-DuKdUTqEXc5PJ7zc8wlZE/ZlCrU4JT7dhlXFVwPLxSwV89kj2D0guZnkjjvS
-/EahuBe/TWgsOOrQ6IgSlkrLVvVYdEZ0Cc8eM7fjd7+snfhJoNWIA49Mr1pI
-ljLRO15jyXQdgxvC+UFc5bkXwhO7o/wvEvq7i9yNSbUNr61nH2O1VOTE/ve6
-uFnGUs9m7vDXjlBfcV7eaArXmDIZfDB4KIvJD2UFt7jH/wkLcYt6aCwsZ6kt
-y27+pYrbi1jX37WEi0jbCn4wQa/ias/KOj5pvVYQ4d7XE92Gu8TTJTj7bWo7
-Fs3H5bjzz6wSv6zsr8D6L7Zd+LrNzr/x72AVPtUxrMK/p0gDXhBW89Olucxm
-BUvNBf2f8fGzb7L4aKl7k4Tb/jBUhBee/yDw5dz9MtyrUO3Ba/7vR0a5B2Le
-ZuxyerXYRzS24qdmgsHptmb+//GlS80=
+1:eJwdxW1IEwEABuDlaK2Zpm7mRnNOizJJo1kxBAeHpRERZSmxwcToSywXDonm
+0hGt2SpHshKSkUkb/ZFkwcI2lrFBehuS22IyYlMyN6GDZVbklnTv/Xh4yi9o
+mi/lsFis/TRMNhivlvMpYk3p1ODzZRd7sTARNmBBqKF/hr6z/4EJSw5uGsJq
+bc4wbnTMjeAJa8yGjbKefJK+Vi/djm8mK90KAUVMHamfwh3iyEdcl4ozS609
+Qbw7aghhh/3TSQ/9fELUjL2ZQiVOcc+0Y1nxtcByMUXEvJYIdg3ybiXp49Y0
+s5bN7cNvEwojjloVKn4JRaRFq2rMOcu5jGeP6zvwu1+mLvw00KbFgce6V61C
+itAZdr3GvOl6EjeG84O4yn0/hCf3RpnHEup7i/RNSbkZr29kn2C5gGPH/veq
+uF5EEc9n7jLX2YivOC9vPIVrdZkMPhQ8nMXCD2UFt+md/9iFuFU+PBEWU8S2
+ZRfzUsWdRawa6F7CRULzCn44aVjFNe6VDXzKdL0gQl/dG92Bu7nTJTj7zbcT
+c+bjYtz1Z1aKX1YOVGD1F/MefMNsYd78d6gKn+4ckeHfPqEGL7BrmA2lueRW
+CUXMBf2f8Ylzb7L4WKlrC4/e8ihUhBdGf/LxldwDItwnke3D6/4fR8fpB2Oe
+Fuywe5TYy29qw8/0fBKn21uYv1eP+pz0trUXzP8BAzRVOw==
   "],ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]]
 }, Open  ]],
@@ -205,12 +205,12 @@ Cell[CellGroupData[{
 Cell[4197, 92, 602, 9, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
 Cell[CellGroupData[{
 Cell[4824, 105, 335, 5, 54, "Subsection",ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-21392823af5f"],
-Cell[5162, 112, 1149, 20, 104, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+Cell[5162, 112, 1165, 20, 104, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6360, 138, 611, 9, 67, "Section",ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-f23cfcd90912"],
-Cell[6974, 149, 1577, 24, 216, "Subsection",ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
+Cell[6376, 138, 611, 9, 67, "Section",ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-f23cfcd90912"],
+Cell[6990, 149, 1577, 24, 216, "Subsection",ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
 }, Open  ]]
 }, Open  ]]
 }
