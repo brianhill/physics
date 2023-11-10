@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      9924,        211]
-NotebookOptionsPosition[      8595,        177]
-NotebookOutlinePosition[      9041,        195]
-CellTagsIndexPosition[      8998,        192]
+NotebookDataLength[     11029,        220]
+NotebookOptionsPosition[      9830,        189]
+NotebookOutlinePosition[     10276,        207]
+CellTagsIndexPosition[     10233,        204]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -90,48 +90,59 @@ stay as long as you like. ",
 
 Cell[CellGroupData[{
 
-Cell["Presentations", "Section",
+Cell["Topics", "Section",
  CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
   3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
   3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
   3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
   3.9031854607388773`*^9}, {3.9053588870400476`*^9, 3.905358891225012*^9}, {
   3.905677023539398*^9, 3.905677069281822*^9}, {3.9074281558454227`*^9, 
-  3.907428161470359*^9}, {3.907428478145879*^9, 
-  3.9074284793275337`*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+  3.907428161470359*^9}, {3.907428478145879*^9, 3.9074284793275337`*^9}, {
+  3.908630591656597*^9, 
+  3.9086305946251383`*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
 643fa1caea91"],
 
-Cell[CellGroupData[{
-
-Cell["N3 Presentations Carried Forward from Nov. 7", "Subsection",
- CellChangeTimes->{{3.9074286536229877`*^9, 3.907428656727818*^9}, {
-  3.907429229771274*^9, 3.907429232718843*^9}, {3.908062793474523*^9, 
-  3.90806279383449*^9}, {3.9083975809381*^9, 
-  3.908397587477563*^9}},ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-\
-21392823af5f"],
-
 Cell["\<\
-3. Rebecca & Jack, N3R.2, p. 52, a graphical solution and an algebraic \
-solution are both possible
-4. Theory Presentation, Derivation of the Fundamental Theorem of Calculus
-5. Theory Presentation, Uniform Circular Motion, Kepler\[CloseCurlyQuote]s \
-Third Law, and Newton\[CloseCurlyQuote]s Universal Theory of Gravitation\
+1. Kepler\[CloseCurlyQuote]s Third Law applied to Earth, Jupiter, and Venus
+2. The behavior of gyroscopes
+3. Discussion of N5B.7 (the inclined plane problem)
+4. A simple explanation of the Fundamental Theorem of Calculus \[LongDash] I\
+\[CloseCurlyQuote]m saving the somewhat more rigorous explanation for next \
+time\
 \>", "Text",
- CellChangeTimes->CompressedData["
-1:eJwdxW1IEwEABuDlaK2Zpm7mRnNOizJJo1kxBAeHpRERZSmxwcToSywXDonm
-0hGt2SpHshKSkUkb/ZFkwcI2lrFBehuS22IyYlMyN6GDZVbklnTv/Xh4yi9o
-mi/lsFis/TRMNhivlvMpYk3p1ODzZRd7sTARNmBBqKF/hr6z/4EJSw5uGsJq
-bc4wbnTMjeAJa8yGjbKefJK+Vi/djm8mK90KAUVMHamfwh3iyEdcl4ozS609
-Qbw7aghhh/3TSQ/9fELUjL2ZQiVOcc+0Y1nxtcByMUXEvJYIdg3ybiXp49Y0
-s5bN7cNvEwojjloVKn4JRaRFq2rMOcu5jGeP6zvwu1+mLvw00KbFgce6V61C
-itAZdr3GvOl6EjeG84O4yn0/hCf3RpnHEup7i/RNSbkZr29kn2C5gGPH/veq
-uF5EEc9n7jLX2YivOC9vPIVrdZkMPhQ8nMXCD2UFt+md/9iFuFU+PBEWU8S2
-ZRfzUsWdRawa6F7CRULzCn44aVjFNe6VDXzKdL0gQl/dG92Bu7nTJTj7zbcT
-c+bjYtz1Z1aKX1YOVGD1F/MefMNsYd78d6gKn+4ckeHfPqEGL7BrmA2lueRW
-CUXMBf2f8Ylzb7L4WKlrC4/e8ihUhBdGf/LxldwDItwnke3D6/4fR8fpB2Oe
-Fuywe5TYy29qw8/0fBKn21uYv1eP+pz0trUXzP8BAzRVOw==
-  "],ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
-}, Open  ]]
+ CellChangeTimes->{{3.902344004164525*^9, 3.9023440615736027`*^9}, {
+   3.902344155128826*^9, 3.902344198620983*^9}, {3.9026882501193943`*^9, 
+   3.902688316359304*^9}, {3.9026884000372458`*^9, 3.902688440076583*^9}, {
+   3.902688478551547*^9, 3.9026884948306503`*^9}, {3.902689395662417*^9, 
+   3.902689401015161*^9}, {3.902928345278255*^9, 3.9029283859129333`*^9}, {
+   3.902928446628468*^9, 3.902928446965848*^9}, {3.9029284836743317`*^9, 
+   3.9029285320262623`*^9}, {3.9031855105202208`*^9, 
+   3.9031855528085747`*^9}, {3.9031856165619802`*^9, 3.903185674532337*^9}, {
+   3.9037968273775873`*^9, 3.9037969004920473`*^9}, {3.903798216329921*^9, 
+   3.9037982235181723`*^9}, {3.903798256250421*^9, 3.903798313964809*^9}, {
+   3.904412377955669*^9, 3.904412407565666*^9}, {3.9044124641976347`*^9, 
+   3.9044124918838873`*^9}, {3.904412532248746*^9, 3.904412570993602*^9}, {
+   3.905074499830297*^9, 3.905074553109433*^9}, {3.905074769930669*^9, 
+   3.90507478446329*^9}, {3.905074836304097*^9, 3.905074838723599*^9}, {
+   3.905358898964799*^9, 3.905358929778232*^9}, {3.905359023906125*^9, 
+   3.905359144189968*^9}, {3.905677042867159*^9, 3.905677044149612*^9}, {
+   3.9056770820504427`*^9, 3.905677125407843*^9}, {3.905677279858667*^9, 
+   3.905677281681177*^9}, {3.905677440992321*^9, 3.9056774481247187`*^9}, {
+   3.907427716725627*^9, 3.907427717715582*^9}, {3.907428108066759*^9, 
+   3.907428131579145*^9}, {3.9074281723154383`*^9, 3.90742824402265*^9}, {
+   3.907428343304099*^9, 3.9074284834227667`*^9}, {3.907428534733786*^9, 
+   3.907428542251031*^9}, {3.9074285741218243`*^9, 3.90742858296387*^9}, {
+   3.907428614467704*^9, 3.907428628254961*^9}, {3.9074286603394003`*^9, 
+   3.907428660485649*^9}, {3.907428692592898*^9, 3.9074287568568497`*^9}, {
+   3.907429240773921*^9, 3.907429241437973*^9}, {3.908062800347351*^9, 
+   3.908062894150002*^9}, {3.908063205604039*^9, 3.908063293691073*^9}, {
+   3.90806338257978*^9, 3.908063391613388*^9}, {3.908063433470142*^9, 
+   3.908063561566222*^9}, {3.908397607555295*^9, 3.908397741901679*^9}, {
+   3.9083977818952208`*^9, 3.90839781822116*^9}, {3.90839867260896*^9, 
+   3.9083986746682053`*^9}, {3.9084088610056057`*^9, 3.90840886106111*^9}, {
+   3.90863064506357*^9, 3.908630816980321*^9}, 
+   3.908630853125361*^9},ExpressionUUID->"daa917cc-521c-42dc-b004-\
+cc06eab40169"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -154,8 +165,8 @@ N4M.5 was too much like the next problem N4R.1
 3. N5B.7, p. 83, A basic plug-in for a frictionless cart on an inclined plane
 4. N5M.1, p. 83, Requires use of the concept of the coefficient of static \
 friction, quite a bit like Example N5.4, but first you have to estimate what \
-fraction of the car\[CloseCurlyQuote]s weight is on its rear wheels (usually \
-about 40% for front-engine cars)\
+fraction of the car\[CloseCurlyQuote]s weight is on its rear wheels \
+(approximately 40-45% for front-engine cars)\
 \>", "Subsection",
  CellChangeTimes->{{3.907161511820457*^9, 3.907161517693348*^9}, {
    3.9071757851311502`*^9, 3.907175786965211*^9}, 3.907818209992303*^9, {
@@ -170,7 +181,8 @@ about 40% for front-engine cars)\
    3.908398130040098*^9, 3.908398139118972*^9}, {3.908398169156537*^9, 
    3.908398192128955*^9}, {3.908398252159361*^9, 3.908398411595109*^9}, {
    3.908398456684402*^9, 3.9083985365937967`*^9}, {3.908398607154119*^9, 
-   3.908398652335915*^9}},ExpressionUUID->"de13345d-2c0d-4bc2-bae2-\
+   3.908398652335915*^9}, {3.908630830378921*^9, 
+   3.90863084576903*^9}},ExpressionUUID->"de13345d-2c0d-4bc2-bae2-\
 ad7e4536bfe2"]
 }, Open  ]]
 }, Open  ]]
@@ -202,15 +214,12 @@ Cell[2379, 56, 801, 12, 53, "Section",ExpressionUUID->"63c3bcef-2519-4ab1-b052-8
 Cell[3183, 70, 977, 17, 81, "Text",ExpressionUUID->"25103f70-4292-483d-8a28-27bf4f4316e8"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[4197, 92, 602, 9, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
-Cell[CellGroupData[{
-Cell[4824, 105, 335, 5, 54, "Subsection",ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-21392823af5f"],
-Cell[5162, 112, 1165, 20, 104, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
-}, Open  ]]
+Cell[4197, 92, 646, 10, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[4846, 104, 2676, 40, 127, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6376, 138, 611, 9, 67, "Section",ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-f23cfcd90912"],
-Cell[6990, 149, 1577, 24, 216, "Subsection",ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
+Cell[7559, 149, 611, 9, 67, "Section",ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-f23cfcd90912"],
+Cell[8173, 160, 1629, 25, 216, "Subsection",ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
 }, Open  ]]
 }, Open  ]]
 }

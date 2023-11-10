@@ -1,0 +1,209 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      8854,        201]
+NotebookOptionsPosition[      7526,        167]
+NotebookOutlinePosition[      7974,        185]
+CellTagsIndexPosition[      7931,        182]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Physics, Preparation for Tuesday, Nov. 7", "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}, {3.902688198161932*^9, 3.902688210170267*^9}, {
+  3.902930581038875*^9, 3.90293058270744*^9}, {3.9031851047434187`*^9, 
+  3.903185107369246*^9}, {3.903796719511032*^9, 3.90379671975321*^9}, {
+  3.90441241155903*^9, 3.9044124119419613`*^9}, {3.9050745643598127`*^9, 
+  3.905074566688058*^9}, {3.9053588481058683`*^9, 3.905358854573118*^9}, {
+  3.905676991107874*^9, 3.905676994582753*^9}, {3.907427588657308*^9, 
+  3.907427591198588*^9}, {3.90781710301303*^9, 3.907817106015664*^9}, {
+  3.908062735953104*^9, 
+  3.9080627361432953`*^9}},ExpressionUUID->"0a9f033e-46a1-4578-becc-\
+919930044f24"],
+
+Cell[TextData[{
+ "Read N4 from ",
+ StyleBox["Six Ideas",
+  FontSlant->"Italic"]
+}], "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.905676998035874*^9, 
+  3.9056770181620903`*^9}, {3.907427596733724*^9, 3.907427604529786*^9}, {
+  3.90806273936226*^9, 
+  3.908062739665884*^9}},ExpressionUUID->"39b67822-fab3-4af4-9957-\
+995e6360c459"],
+
+Cell[CellGroupData[{
+
+Cell["Office Hours", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.90716136712265*^9, 
+  3.9071613675384903`*^9}, {3.907817201304674*^9, 3.9078172014059343`*^9}, {
+  3.907819876726859*^9, 
+  3.907819878335541*^9}},ExpressionUUID->"63c3bcef-2519-4ab1-b052-\
+82cc499d8390"],
+
+Cell[TextData[{
+ "Some of you are too polite to just come by the West Duplex and knock. ",
+ StyleBox["Therefore, for the rest of the term, I am adding office hours \
+starting at 10am on Monday and Thursday till whenever people leave",
+  FontSlant->"Italic"],
+ ". If nobody shows up in the first half hour, I will likely go off and do \
+other things. So come by between 10:00 and 10:30 and stay as long as you \
+like. I remain available at most other times."
+}], "Text",
+ CellChangeTimes->{{3.907818270547716*^9, 3.907818285037993*^9}, {
+  3.9078183185843353`*^9, 3.907818320588147*^9}, {3.907819269179101*^9, 
+  3.9078192727347193`*^9}, {3.9078193031547413`*^9, 3.907819674557852*^9}, {
+  3.907819739493697*^9, 3.907819763475422*^9}, {3.907819829523068*^9, 
+  3.907819834225362*^9}, {3.907819887212215*^9, 3.907820045260414*^9}, {
+  3.907820265883039*^9, 3.907820356894231*^9}, {3.907820538128118*^9, 
+  3.907820559457645*^9}, {3.908063112218739*^9, 
+  3.908063179268152*^9}},ExpressionUUID->"25103f70-4292-483d-8a28-\
+27bf4f4316e8"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Presentations", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
+  3.9031854607388773`*^9}, {3.9053588870400476`*^9, 3.905358891225012*^9}, {
+  3.905677023539398*^9, 3.905677069281822*^9}, {3.9074281558454227`*^9, 
+  3.907428161470359*^9}, {3.907428478145879*^9, 
+  3.9074284793275337`*^9}},ExpressionUUID->"faa93989-4709-458d-af5a-\
+643fa1caea91"],
+
+Cell[CellGroupData[{
+
+Cell["N3 Presentations", "Subsection",
+ CellChangeTimes->{{3.9074286536229877`*^9, 3.907428656727818*^9}, {
+  3.907429229771274*^9, 3.907429232718843*^9}, {3.908062793474523*^9, 
+  3.90806279383449*^9}},ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-\
+21392823af5f"],
+
+Cell["\<\
+1. Will & Emma, N3M.10, p. 52, I\[CloseCurlyQuote]m hoping you will make a \
+worksheet that leads everyone through part (a), and run the software for them \
+for part (b), http://www.physics.pomona.edu/sixideas/resources.html)
+2. Hexi & Trey, N3R.1, p. 52, a graphical solution and an algebraic solution \
+are both possible
+3. Rebecca & Jack, N3R.2, p. 52, a graphical solution and an algebraic \
+solution are both possible for this one too \
+\>", "Text",
+ CellChangeTimes->CompressedData["
+1:eJwdxV1IU2EABuDpaK3ZTN2WZzTntCgVUpoVQ3DwIVlEhJpIOFgUlYnlxCHR
+nHqI1mz9jGTlhUgRKV0oicFCF2YopNuQ3CYTiU3JtnlxQMyK2pK+91w8PAVX
+THXX0gUCQTGFvVW2GwUyjmw3jpvwxfyrnZiJBlksD1T1zNNbeh7asfpYWh82
+mtP7cfXw4gAec60MYpu2I9NLL7dq9uHb8SKPXs6R6ZOV07hZFfqMKxIRfo2r
+w48PhdkAHh76cu4DfTmqrMNTyexGnBDXXsZaxU1fTMGRlSlnCLufSO7E6RHX
+Jr9ZKO7G76N6Gw679AZZLkc2lVtGLLoguo4Xzlib8eRPeyt+7rtkxr6nljcN
+DEcs7MG3WDJX6cXVwUw/LvE8COCJI2H+V1Hj/TX66bjOgf/upJ5hnVw0hGc/
+GiJWJUdezN/jrxgk37BUOprA5ZZkEh/3n0hh5lN+Vhd9/J8wGzfo+seCKo7s
+jbn51wvvrmFDb/s6zmEcG/jRBLuFSz0bO/i8/VZWiH60M7wft4vncnHq+8wB
+LFqOqHDr7wUNfl3UW4iNXx2HcZvDyb/rT18JrmkZ0OJfM4wJrwpL+dm8DO8e
+NUcW/bNL+Gz9uxQ+lefeLaE7Hwdy8OrLHzLclFGmxN1qbTHeDkpjI3RLjYL/
+P2L7Or0=
+  "],ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["N4 Problems to Work and Discuss", "Subsection",
+ CellChangeTimes->{{3.9074286536229877`*^9, 3.907428656727818*^9}, {
+  3.907429229771274*^9, 3.907429232718843*^9}, {3.908062793474523*^9, 
+  3.90806279383449*^9}, {3.9080628706369267`*^9, 
+  3.9080628902463207`*^9}},ExpressionUUID->"af2c1401-3d48-4021-bb30-\
+15e1fb6978a7"],
+
+Cell["\<\
+1. N4B.2, p. 67
+2. N4B.3, p. 67
+3. N4M.1, p. 68\
+\>", "Text",
+ CellChangeTimes->CompressedData["
+1:eJwdxV1IU2EABuDpaM2VpjnzjJbOFSqSg2bJEBx8CNZFhT8g4WBRVCiWC5dE
+c+UhXLMVSbYyEglCxRtRvFBsYYZBuo1RZ4P5x5Zkbl58IKMfakv63nPx8BRd
+tjRcTZdIJCUM9tY4WopyKfnRPGXBFwqvdGEuGuSxUqjpXmK3dT9y4oITaf3Y
+bE0fwLWjXwbxpHt1CDv0nVledoVdcwDfjpV6jEpK5iur53GrOvQJV8Uj4hp3
+px8fC/MCHh35fPYdezmqasBzyZxmHJfXX8L6vOu+rTxKVuf6Qnj6ieJOjB1x
+74hbpfJ7eCZqdOCw22jKzadkR5UwY1mj7BoOnLG34rc/ne34he+iFfue2saa
+OEps/NEJrFis9uLaYJYfl3keCni2JCz+Jmp+sME+HTO48N/d1HNsUMpG8Mf3
+pohdRcnrpR7xqiHyDWdmjsdxhS2ZxCf9p1KY+1CYfZc99U+ag5sMA5NBNSX7
+t6bFN7X3N7Cpt2MTH+Rc2/jxLJ/AOs/2Lj7vvJEdYpd3hQ/hDvliPk59XziM
+ZcsRNW7/HdDg4dJeLTavu4rxTVef+J4//WW4rm1Qj38tcBb8VaoT54/s82YU
+UELTMgQslBev4FvavWv4WeLlcQU7cO6VDv8HszQsMQ==
+  "],ExpressionUUID->"f38fb416-1841-4696-99c9-bf7afc062bf3"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{-1260, Automatic}, {Automatic, 0}},
+PrintingCopies->2,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 818, 12, 69, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[1401, 36, 862, 16, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[CellGroupData[{
+Cell[2288, 56, 801, 12, 53, "Section",ExpressionUUID->"63c3bcef-2519-4ab1-b052-82cc499d8390"],
+Cell[3092, 70, 1033, 17, 104, "Text",ExpressionUUID->"25103f70-4292-483d-8a28-27bf4f4316e8"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4162, 92, 602, 9, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
+Cell[CellGroupData[{
+Cell[4789, 105, 260, 4, 54, "Subsection",ExpressionUUID->"c95e1b97-6c0d-418f-a0c0-21392823af5f"],
+Cell[5052, 111, 1242, 22, 127, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6331, 138, 328, 5, 54, "Subsection",ExpressionUUID->"af2c1401-3d48-4021-bb30-15e1fb6978a7"],
+Cell[6662, 145, 824, 17, 81, "Text",ExpressionUUID->"f38fb416-1841-4696-99c9-bf7afc062bf3"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
