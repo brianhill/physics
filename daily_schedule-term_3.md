@@ -21,7 +21,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 11
 
-* Tuesday, Nov. 14 &mdash; *Six Ideas* N6
+* Tuesday, Nov. 14 &mdash; *Six Ideas* N6 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-14.pdf)
 * Friday, Nov. 17 &mdash; *Six Ideas* N7
 
 ### Week 12
