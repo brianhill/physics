@@ -21,23 +21,23 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 11
 
-* Tuesday, Nov. 14 &mdash; *Six Ideas* N6 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-14.pdf)
-* Friday, Nov. 17 &mdash; *Six Ideas* N7
+* Preparation for Tuesday, Nov. 14 &mdash; *Six Ideas* N6 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-14.pdf)
+* Friday, Nov. 17 &mdash; No new *Six Ideas* reading &mdash; [For Friday](./assignments/AssignmentFor2023-11-17.pdf)
 
 ### Week 12
 
-* Tuesday, Nov. 21 &mdash; *Six Ideas* N8
-* Friday, Nov. 24 &mdash; No class Thanksgiving holiday
+* Tuesday, Nov. 21 &mdash; *Six Ideas* N7
+* Friday, Nov. 24 &mdash; No class
 
 ### Week 13
 
-* Tuesday, Nov. 28 &mdash; *Six Ideas* N9
-* Friday, Dec. 1 &mdash; *Six Ideas* N10
+* Tuesday, Nov. 28 &mdash; *Six Ideas* N8
+* Friday, Dec. 1 &mdash; *Six Ideas* N9
 
 ### Week 14
 
-* Tuesday, Dec. 5 &mdash; *Six Ideas* N11
-* Friday, Dec. 8 &mdash; *Six Ideas* N12 &mdash; Moore has marked N12 as optional, so we actually have a bit of buffer
+* Tuesday, Dec. 5 &mdash; *Six Ideas* N10
+* Friday, Dec. 8 &mdash; *Six Ideas* N11
 
 ### Week 15 &mdash; Final
 
