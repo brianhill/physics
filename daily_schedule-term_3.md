@@ -19,15 +19,14 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Tuesday, Nov. 7 &mdash; *Six Ideas* N4 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-07.pdf)
 * Friday, Nov. 10 &mdash; *Six Ideas* N5 &mdash; [For Friday](./assignments/AssignmentFor2023-11-10.pdf)
 
-### Week 11
+### Week 11 &mdash; Free-Body Diagrams with Multiple Objects
 
 * Preparation for Tuesday, Nov. 14 &mdash; *Six Ideas* N6 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-14.pdf)
-* Friday, Nov. 17 &mdash; No new *Six Ideas* reading &mdash; [For Friday](./assignments/AssignmentFor2023-11-17.pdf)
+* Friday, Nov. 17 &mdash; No new *Six Ideas* reading &mdash; Consolidate N1-N6 &mdash; [For Friday](./assignments/AssignmentFor2023-11-17.pdf)
 
-### Week 12
+### Week 12 &mdash; Non-Uniform Circular Motion
 
-* Tuesday, Nov. 21 &mdash; *Six Ideas* N7
-* Friday, Nov. 24 &mdash; No class
+* Tuesday, Nov. 21 &mdash; *Six Ideas* N7 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-21.pdf)
 
 ### Week 13
 
