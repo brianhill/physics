@@ -30,7 +30,8 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 13
 
-* Tuesday, Nov. 28 &mdash; *Six Ideas* N8
+* Tuesday, Nov. 28 &mdash; *Six Ideas* N8 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-28.pdf)
+
 * Friday, Dec. 1 &mdash; *Six Ideas* N9
 
 ### Week 14
