@@ -1,6 +1,8 @@
-# Modern Introductory Physics
+# Modern Introductory Physics &mdash; Part I
 
-Fall 2023, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)
+*Conservation Laws and Newtonian Mechanics*
+
+*Fall 2023, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
 ## Syllabus
 
@@ -10,9 +12,9 @@ A [PDF of the Syllabus](./PhysicsSyllabus.pdf) containing essentially the same i
 
 Our essential goal in one semester will be to understand Newtonian physics, but with a modern perspective. The course presumes previous exposure to calculus, but I will provide reminders for all the definitions and theorems used.
 
-To be a transferrable and meaningful preparation for what will be your second semester of college-level introductory physics elsewhere, we cannot completely depart from what is standard. On the other hand, we certainly don’t have to mimic any particular methodology for covering that material.
+For Part I of this course to be a transferrable and thorough preparation for what will be your second semester of college-level introductory physics elsewhere, we cannot completely depart from what is standard. On the other hand, we certainly don’t have to mimic any particular methodology for covering that material.
 
-We will begin the semester with a study of the major conservation laws. In most courses these are presented as following from Newtonian mechanics. However, as physics progressed into the 20th century, and Newtonian mechanics underwent relativistic and quantum-mechanical modifications, the conservation laws have survived. In a modern introduction, it therefore makes sense to begin with the conservation laws and then in the second half of the semester, we will see Newtonian mechanics as the first example of a detailed physical theory that obeys them.
+We will begin the semester with a study of the major conservation laws. In most courses these are presented as following from Newtonian mechanics. However, as physics progressed into the 20th century, and Newtonian mechanics underwent relativistic and quantum-mechanical modifications, the conservation laws survived fully intact even as the limits of Newtonian mechanics were found. In a modern introduction, it therefore makes sense to begin with the conservation laws and then in the second half of the semester, we will see Newtonian mechanics as the first example of a detailed physical theory that obeys them.
 
 ## Daily Schedules
 
