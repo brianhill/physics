@@ -14,7 +14,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Tuesday, Oct. 31 &mdash; *Six Ideas* N2 &mdash; [For Tuesday](./assignments/AssignmentFor2023-10-31.pdf)
 * Friday, Nov. 3 &mdash; *Six Ideas* N3 &mdash; Problem Set 8 [for Friday](./assignments/AssignmentFor2023-11-03.pdf)
 
-### Week 10
+### Week 10 &mdash; Statics &mdash; Constrained Motion (e.g., inclined planes)
 
 * Tuesday, Nov. 7 &mdash; *Six Ideas* N4 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-07.pdf)
 * Friday, Nov. 10 &mdash; *Six Ideas* N5 &mdash; Problem Set 9 [For Friday](./assignments/AssignmentFor2023-11-10.pdf)
