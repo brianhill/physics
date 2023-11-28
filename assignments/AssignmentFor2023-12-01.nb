@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     13360,        261]
-NotebookOptionsPosition[     12027,        227]
-NotebookOutlinePosition[     12478,        245]
-CellTagsIndexPosition[     12435,        242]
+NotebookDataLength[     13383,        261]
+NotebookOptionsPosition[     12050,        227]
+NotebookOutlinePosition[     12501,        245]
+CellTagsIndexPosition[     12458,        242]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -97,7 +97,7 @@ doing it both ways (inertial frame and like-the-plague, non-inertial frame).
 Also, Brian will prepare a theory handout to warm you up for N10, which is an \
 incredibly important chapter, especially for quantum mechanics. Oscillation \
 is a very interesting and important quantum mechanical problem as well as an \
-interesting an important classical problem.\
+interesting and important classical problem.\
 \>", "Text",
  CellChangeTimes->{{3.902344004164525*^9, 3.9023440615736027`*^9}, {
    3.902344155128826*^9, 3.902344198620983*^9}, {3.9026882501193943`*^9, 
@@ -135,8 +135,8 @@ interesting an important classical problem.\
    3.9089758222475853`*^9, 3.908975848549498*^9}, {3.9089758837622232`*^9, 
    3.9089759187717323`*^9}, {3.908976693563313*^9, 3.908976694879273*^9}, {
    3.910183582119937*^9, 3.910183613543766*^9}, {3.91018370316265*^9, 
-   3.910183781401341*^9}, {3.910184303638352*^9, 
-   3.910184382054533*^9}},ExpressionUUID->"daa917cc-521c-42dc-b004-\
+   3.910183781401341*^9}, {3.910184303638352*^9, 3.910184382054533*^9}, 
+   3.910186731816929*^9},ExpressionUUID->"daa917cc-521c-42dc-b004-\
 cc06eab40169"]
 }, Open  ]],
 
@@ -252,15 +252,15 @@ Cell[2626, 61, 795, 12, 35, "Text",ExpressionUUID->"7f689058-ffaf-491b-acec-2325
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[3458, 78, 704, 10, 67, "Section",ExpressionUUID->"faa93989-4709-458d-af5a-643fa1caea91"],
-Cell[4165, 90, 3390, 49, 173, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
+Cell[4165, 90, 3413, 49, 173, "Text",ExpressionUUID->"daa917cc-521c-42dc-b004-cc06eab40169"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[7592, 144, 852, 12, 67, "Section",ExpressionUUID->"63c3bcef-2519-4ab1-b052-82cc499d8390"],
-Cell[8447, 158, 913, 16, 58, "Text",ExpressionUUID->"25103f70-4292-483d-8a28-27bf4f4316e8"]
+Cell[7615, 144, 852, 12, 67, "Section",ExpressionUUID->"63c3bcef-2519-4ab1-b052-82cc499d8390"],
+Cell[8470, 158, 913, 16, 58, "Text",ExpressionUUID->"25103f70-4292-483d-8a28-27bf4f4316e8"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[9397, 179, 708, 10, 67, "Section",ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-f23cfcd90912"],
-Cell[10108, 191, 1891, 32, 243, "Subsection",ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
+Cell[9420, 179, 708, 10, 67, "Section",ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-f23cfcd90912"],
+Cell[10131, 191, 1891, 32, 243, "Subsection",ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
 }, Open  ]]
 }, Open  ]]
 }
