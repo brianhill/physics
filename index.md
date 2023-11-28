@@ -1,6 +1,8 @@
-# Modern Introductory Physics &mdash; Part I
+# Modern Introductory Physics, Part I: Classical Mechanics
 
-*Conservation Laws and Newtonian Mechanics*
+*Unofficial Course Title: Classical Mechanics*
+
+*We will cover Conservation Laws and Newtonian Mechanics, in that order*
 
 *Fall 2023, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
