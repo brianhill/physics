@@ -28,12 +28,12 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Tuesday, Nov. 21 &mdash; *Six Ideas* N7 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-21.pdf)
 
-### Week 13
+### Week 13 &mdash; Non-Inertial Frames &mdash; Projectile Motion
 
 * Tuesday, Nov. 28 &mdash; *Six Ideas* N8 &mdash; [For Tuesday](./assignments/AssignmentFor2023-11-28.pdf)
 * Friday, Dec. 1 &mdash; *Six Ideas* N9 &mdash; Problem Set 11 [For Friday](./assignments/AssignmentFor2023-12-01.pdf)
 
-### Week 14
+### Week 14 &mdash; Oscillatory Motion &mdash; Kepler's Laws
 
 * Tuesday, Dec. 5 &mdash; *Six Ideas* N10
 * Friday, Dec. 8 &mdash; *Six Ideas* N11
