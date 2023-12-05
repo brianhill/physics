@@ -1,0 +1,297 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     12817,        289]
+NotebookOptionsPosition[     11710,        259]
+NotebookOutlinePosition[     12159,        277]
+CellTagsIndexPosition[     12116,        274]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Physics, Preparation for Friday, Dec. 8", "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}, {3.902688198161932*^9, 3.902688210170267*^9}, {
+  3.902930581038875*^9, 3.90293058270744*^9}, {3.9031851047434187`*^9, 
+  3.903185107369246*^9}, {3.903796719511032*^9, 3.90379671975321*^9}, {
+  3.90441241155903*^9, 3.9044124119419613`*^9}, {3.9050745643598127`*^9, 
+  3.905074566688058*^9}, {3.9053588481058683`*^9, 3.905358854573118*^9}, {
+  3.905676991107874*^9, 3.905676994582753*^9}, {3.907427588657308*^9, 
+  3.907427591198588*^9}, {3.90781710301303*^9, 3.907817106015664*^9}, {
+  3.908062735953104*^9, 3.9080627361432953`*^9}, {3.908397530055784*^9, 
+  3.908397533081296*^9}, {3.908975405813118*^9, 3.908975406000053*^9}, {
+  3.9101835530153913`*^9, 3.910183556042684*^9}, {3.910754918491294*^9, 
+  3.910754918640984*^9}},ExpressionUUID->"0a9f033e-46a1-4578-becc-\
+919930044f24"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ "Read ",
+ StyleBox["Six Ideas ",
+  FontSlant->"Italic"],
+ "N11"
+}], "Section",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGAQBmIQ/W5quaui8FvHM+eD3ED0tsLWZBC9gekemJ6X8Lf6
+JJB+1Ha9BkTb3J/sbCfy1vEHz2wwLaj1SmoPiG/4Hkz7pe5NBNGnJyolgWjF
+fYv3PRN96zjlUsUBEN0gbxIiLP7W8YRfeCiIPpN5IgZEp+mcA9OXNFOXh0m8
+dZT7XQqmHzhoNz4E0i826oDph6oHb9RIvnW8oe96G0Svrpq+8LLMW0emLxMW
+gehF07MPccq9dXzjVwqmpzyXtlkLpHkiZcG0RqBB2nH5t445e9rANOeKxIkg
++tSGLDDda6YfKKoE1NdRBqbnzTL21VF+67gwyh5MAwCl1Y8T
+  "],ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+
+Cell["Kepler\[CloseCurlyQuote]s Laws.", "Text",
+ CellChangeTimes->{{3.907818270547716*^9, 3.907818285037993*^9}, {
+  3.9078183185843353`*^9, 3.907818320588147*^9}, {3.907819269179101*^9, 
+  3.9078192727347193`*^9}, {3.9078193031547413`*^9, 3.907819674557852*^9}, {
+  3.907819739493697*^9, 3.907819763475422*^9}, {3.907819829523068*^9, 
+  3.907819834225362*^9}, {3.907819887212215*^9, 3.907820045260414*^9}, {
+  3.907820265883039*^9, 3.907820356894231*^9}, {3.907820538128118*^9, 
+  3.907820559457645*^9}, {3.908063112218739*^9, 3.908063179268152*^9}, {
+  3.908397548673869*^9, 3.908397566234507*^9}, {3.9089754196123123`*^9, 
+  3.908975429298481*^9}, {3.908975761565813*^9, 3.908975803347699*^9}, {
+  3.9101835741214037`*^9, 3.910183577877818*^9}, {3.9107549252112417`*^9, 
+  3.910754930745695*^9}},ExpressionUUID->"7f689058-ffaf-491b-acec-\
+2325fef9281f"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Physics Lunches", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902688223918044*^9, 
+  3.902688230735215*^9}, {3.9029273886210003`*^9, 3.902927388845333*^9}, {
+  3.903185111317635*^9, 3.9031851114748497`*^9}, {3.9031856779186163`*^9, 
+  3.903185681080297*^9}, {3.903796725116959*^9, 3.9037967397757053`*^9}, {
+  3.904412321628845*^9, 3.904412330728367*^9}, {3.9044123902629147`*^9, 
+  3.9044123904429197`*^9}, {3.905074491161355*^9, 3.905074491686904*^9}, {
+  3.9053588573516693`*^9, 3.905358857396717*^9}, {3.90716136712265*^9, 
+  3.9071613675384903`*^9}, {3.907817201304674*^9, 3.9078172014059343`*^9}, {
+  3.907819876726859*^9, 3.907819878335541*^9}, {3.910183616289551*^9, 
+  3.9101836189651003`*^9}},ExpressionUUID->"63c3bcef-2519-4ab1-b052-\
+82cc499d8390"],
+
+Cell[TextData[{
+ "Thursdays are physics lunches. ",
+ StyleBox["I am very happy to do additional physics lunches any day except \
+Monday (when I have LibCom over lunch).",
+  FontSlant->"Italic"]
+}], "Text",
+ CellChangeTimes->{{3.907818270547716*^9, 3.907818285037993*^9}, {
+  3.9078183185843353`*^9, 3.907818320588147*^9}, {3.907819269179101*^9, 
+  3.9078192727347193`*^9}, {3.9078193031547413`*^9, 3.907819674557852*^9}, {
+  3.907819739493697*^9, 3.907819763475422*^9}, {3.907819829523068*^9, 
+  3.907819834225362*^9}, {3.907819887212215*^9, 3.907820045260414*^9}, {
+  3.907820265883039*^9, 3.907820356894231*^9}, {3.907820538128118*^9, 
+  3.907820559457645*^9}, {3.908063112218739*^9, 3.908063179268152*^9}, {
+  3.908397548673869*^9, 3.908397566234507*^9}, {3.910183623894684*^9, 
+  3.910183667589944*^9}, {3.910183886031372*^9, 
+  3.910183886884836*^9}},ExpressionUUID->"25103f70-4292-483d-8a28-\
+27bf4f4316e8"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["For Problem Set 12", "Section",
+ CellChangeTimes->{{3.902343723737052*^9, 3.902343730587866*^9}, {
+  3.9023439641701307`*^9, 3.902343966937828*^9}, {3.902344048197321*^9, 
+  3.902344075298213*^9}, {3.902688246879025*^9, 3.9026882554290752`*^9}, {
+  3.902927393209742*^9, 3.9029273996228228`*^9}, {3.9031854584896*^9, 
+  3.9031854607388773`*^9}, {3.9053588870400476`*^9, 3.905358891225012*^9}, {
+  3.9071613707674503`*^9, 3.9071613718924923`*^9}, {3.907817203385817*^9, 
+  3.9078172036221523`*^9}, {3.908397850368978*^9, 3.9083978506054487`*^9}, {
+  3.908975480013135*^9, 3.9089754804388247`*^9}, {3.910183676817133*^9, 
+  3.910183676903882*^9}, {3.910755005539377*^9, 
+  3.910755005584045*^9}},ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-\
+f23cfcd90912"],
+
+Cell[TextData[{
+ "1. Rebecca and Emma presented N10M.12, p. 168. This problem is a \
+continuation of their work.\n\n(i) In step (g), they found ",
+ Cell[BoxData[
+  FormBox["A", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "2b9aabc3-c122-46f5-947b-8bb0fac5563a"],
+ " by adding and squaring the equations and taking the square root. Find \
+\[Theta] by dividing the equations. You\[CloseCurlyQuote]ll get a nice \
+equation for ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"tan", "\[VeryThinSpace]", "\[Theta]"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "44637294-31f0-48c6-9641-8dd7c892a95e"],
+ ".\n\n(j) Now that you have formulae for both ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"A", " "}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "29755b6c-6079-4ea6-a539-5630cfc98af3"],
+ " and \[Theta], you can graph the solution! Assume ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"L", "=", 
+    RowBox[{
+     SqrtBox["3"], "\[CapitalDelta]", "\[VeryThinSpace]", "L"}]}], 
+   TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "07d77ee9-c9d4-4a39-becb-f3a80414c622"],
+ " and ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "L"}], "=", 
+    RowBox[{"1", 
+     StyleBox["m",
+      FontSlant->"Plain"]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "4c0bf05c-d4cf-4044-baff-ed6bdc42d8b9"],
+ ". Also assume :\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"\[Omega]", "=", 
+    RowBox[{
+     SqrtBox[
+      FractionBox[
+       SubscriptBox["k", "s"], "m"]], "=", 
+     RowBox[{
+      FractionBox["5", "3"], 
+      FractionBox["\[Pi]", 
+       StyleBox["s",
+        FontSlant->"Plain"]]}]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "7e9deffa-12b6-4281-9504-81622fd67731"],
+ "      (which is equivalent to the period ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"T", "=", 
+     RowBox[{
+      FractionBox[
+       RowBox[{"2", "\[Pi]"}], "\[Omega]"], "=", 
+      RowBox[{"1.2", 
+       StyleBox["s",
+        FontSlant->"Plain"]}]}]}], 
+    StyleBox[")",
+     FontSlant->"Plain"]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "eae224a9-150d-4fa3-86a0-afed7b425c46"],
+ "\n\nGraph the fraction of a second for which the system obeys simple \
+harmonic motion and make your graph accurate enough to show what happens at \
+0.1s intervals.\n\n(k) Repeat (j), but with ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"L", "=", "\[VeryThinSpace]", 
+    RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", 
+     RowBox[{"L", " ", "/", 
+      SqrtBox["3"]}]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "92f3052f-6c37-45df-b3a0-b0b055eb6f11"],
+ "  (and the same ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "L"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "53daaba1-f651-45d8-a472-05524ab4bed7"],
+ " and \[Omega]).\n\t\t\n2. N11B.11, p. 186, the period of a space probe in \
+an elliptical orbit\n\n3. N11M.3, p. 186. COMPARING gravitational strengths \
+means take the ratio not the difference. Do it in symbols and clean up as \
+much as possible before plugging in the distance to the Moon, the distance to \
+the Sun, the mass of the Moon, and the mass of the Sun. ",
+ Cell[BoxData[
+  FormBox["G", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "5fd3481b-52c6-4769-b4d1-057d4aa8684f"],
+ " is not needed!\n\n4. N11M.7, p. 186, this is close to the heart of Newton\
+\[CloseCurlyQuote]s brilliant argument that the Laws of Physics are \
+Universal.\n\n5. N11D.2, p. 187, Kepler\[CloseCurlyQuote]s Third Law in a \
+bizarre world where gravity falls off as ",
+ Cell[BoxData[
+  FormBox[
+   FractionBox["1", 
+    SuperscriptBox["r", "3"]], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "d7ce61dd-da6a-407a-9c6a-45b4a49dac0b"],
+ ". If we lived in one more dimension, this is what gravity would do."
+}], "Subsection",
+ CellChangeTimes->{{3.907161511820457*^9, 3.907161517693348*^9}, {
+   3.9071757851311502`*^9, 3.907175786965211*^9}, 3.907818209992303*^9, {
+   3.9078191362206*^9, 3.90781913785112*^9}, {3.907819172116008*^9, 
+   3.907819176110496*^9}, {3.907820387875669*^9, 3.907820402108921*^9}, {
+   3.9078209817646646`*^9, 3.907821007358383*^9}, {3.907821038037771*^9, 
+   3.907821042290193*^9}, {3.907821088606534*^9, 3.9078210900352592`*^9}, {
+   3.907821135428946*^9, 3.907821158579274*^9}, {3.907821196245142*^9, 
+   3.907821237363723*^9}, {3.907821349401204*^9, 3.907821396425806*^9}, {
+   3.907821450908679*^9, 3.907821516779191*^9}, {3.908397878489965*^9, 
+   3.908397951028851*^9}, {3.908398041423287*^9, 3.9083980586136217`*^9}, {
+   3.908398130040098*^9, 3.908398139118972*^9}, {3.908398169156537*^9, 
+   3.908398192128955*^9}, {3.908398252159361*^9, 3.908398411595109*^9}, {
+   3.908398456684402*^9, 3.9083985365937967`*^9}, {3.908398607154119*^9, 
+   3.908398652335915*^9}, {3.908630830378921*^9, 3.90863084576903*^9}, {
+   3.908975491833612*^9, 3.908975522492631*^9}, {3.908975666045314*^9, 
+   3.9089757110427523`*^9}, {3.908976051229232*^9, 3.908976178825238*^9}, {
+   3.91018379607202*^9, 3.910183852157165*^9}, {3.910183910624709*^9, 
+   3.910184013801344*^9}, {3.9101840655878057`*^9, 3.9101842834324427`*^9}, 
+   3.910755013683155*^9, {3.910755076171377*^9, 3.910755082647854*^9}, {
+   3.910755115974495*^9, 3.910755324400614*^9}, {3.910755381350129*^9, 
+   3.910755493671335*^9}, {3.9107555992911663`*^9, 3.910755639072219*^9}, {
+   3.910755684567257*^9, 3.91075578305274*^9}, {3.9107559186446733`*^9, 
+   3.910755932820051*^9}, {3.9107559920851727`*^9, 3.910755992124918*^9}, {
+   3.910756046017315*^9, 3.910756070623218*^9}, {3.9107561062525473`*^9, 
+   3.9107565099399633`*^9}, {3.910756554040133*^9, 3.910756669910397*^9}, {
+   3.910756721695945*^9, 3.91075706431129*^9}, {3.910757097685711*^9, 
+   3.910757126718781*^9}, {3.910757203424368*^9, 3.910757276139731*^9}},
+ FontSize->14,ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{Automatic, -978}, {Automatic, 87}},
+PrintingCopies->2,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X ARM (64-bit) (July 24, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"94a17dbf-c624-4e0e-b97a-5ea811487e94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 1009, 14, 69, "Chapter",ExpressionUUID->"0a9f033e-46a1-4578-becc-919930044f24"],
+Cell[CellGroupData[{
+Cell[1614, 40, 547, 13, 67, "Section",ExpressionUUID->"39b67822-fab3-4af4-9957-995e6360c459"],
+Cell[2164, 55, 856, 12, 35, "Text",ExpressionUUID->"7f689058-ffaf-491b-acec-2325fef9281f"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3057, 72, 852, 12, 67, "Section",ExpressionUUID->"63c3bcef-2519-4ab1-b052-82cc499d8390"],
+Cell[3912, 86, 913, 16, 58, "Text",ExpressionUUID->"25103f70-4292-483d-8a28-27bf4f4316e8"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4862, 107, 757, 11, 67, "Section",ExpressionUUID->"93a6fa75-bc8d-4df0-aa2e-f23cfcd90912"],
+Cell[5622, 120, 6060, 135, 541, "Subsection",ExpressionUUID->"de13345d-2c0d-4bc2-bae2-ad7e4536bfe2"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+

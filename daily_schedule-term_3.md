@@ -36,7 +36,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 ### Week 14 &mdash; Oscillatory Motion &mdash; Kepler's Laws
 
 * Tuesday, Dec. 5 &mdash; *Six Ideas* N10 &mdash; [For Tuesday](./assignments/AssignmentFor2023-12-05.pdf)
-* Friday, Dec. 8 &mdash; *Six Ideas* N11
+* Friday, Dec. 8 &mdash; *Six Ideas* N11 &mdash; Problem Set 12 [For Friday](./assignments/AssignmentFor2023-12-08.pdf)
 
 ### Week 15 &mdash; Final
 
