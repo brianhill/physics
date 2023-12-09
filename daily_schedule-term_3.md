@@ -41,3 +41,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 ### Week 15 &mdash; Final
 
 * Tuesday, Dec. 12 &mdash; [Final](./exams/Term3Exam.pdf)
+
+![Newton's Cannon](./resources/NewtonsCannon.jpeg)
+
+What makes a cannonball follow a parabola follows from the same laws of physics that keep the Moon in orbit. Newton's thought experiment is going to the heart of Unit N's subtitle: &ldquo;The Laws of Physics are Universal,&rdquo; and Newton was the first to go down that path with his Universal Theory of Gravitation applied to all the objects in the Solar System.
